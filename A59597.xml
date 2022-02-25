@@ -1,0 +1,730 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two clean birds, or, The cleaning of the leper as it was unfolded in a sermon preached before the right honourable Ferdinando, Lord Fairfax, Generall of the northern forces, and the most of his army, on the fifth day of February, 1642 (being the Lords day, and by his honor appointed to bee kept as a fast upon speciall occasion) at Selbie, in the West Riding of the county of Yorke / by Iohn Shaw, pastor to the church at Rotheram in the same county.</title>
+            <author>Shawe, John, 1608-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59597</idno>
+            <idno type="STC">Wing S3031</idno>
+            <idno type="STC">ESTC R29354</idno>
+            <idno type="EEBO-CITATION">11077131</idno>
+            <idno type="OCLC">ocm 11077131</idno>
+            <idno type="VID">46280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two clean birds, or, The cleaning of the leper as it was unfolded in a sermon preached before the right honourable Ferdinando, Lord Fairfax, Generall of the northern forces, and the most of his army, on the fifth day of February, 1642 (being the Lords day, and by his honor appointed to bee kept as a fast upon speciall occasion) at Selbie, in the West Riding of the county of Yorke / by Iohn Shaw, pastor to the church at Rotheram in the same county.</title>
+                  <author>Shawe, John, 1608-1672.</author>
+               </titleStmt>
+               <extent>[14], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho. Broad ...,</publisher>
+                  <pubPlace>Printed at Yorke :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and cropped, with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Redemption --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46280:1"/>
+            <pb facs="tcp:46280:1" rendition="simple:additions"/>
+            <p>TWO CLEAN BIRDS, OR, The cleanſing of the LEPER.</p>
+            <p>As it was unfolded in a Sermon, Preached be<g ref="char:EOLunhyphen"/>fore the Right Honourable, <hi>Ferdinando</hi> Lord <hi>Fairfax,</hi> Generall of the Northern Forces, and the moſt of his Army, on the fifth day of <hi>February,</hi> 1642 (being the Lords day, and by his Honour appointed to bee kept as a Faſt, upon ſpeciall occaſion) at <hi>Selbie,</hi> in the Weſt Riding of the County of <hi>Yorke.</hi>
+            </p>
+            <p>By <hi>Iohn Shaw</hi> Paſtor to the Church at <hi>Rotheram</hi> in the ſame County.</p>
+            <q>
+               <bibl>
+                  <hi>Levit. 16.7, 8.</hi>
+               </bibl>
+               <p>And Aaron ſhall take the two Goates, and preſent them before the Lord, at the door of the Tabernacle of the Congregation; And Aaron ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſt lots upon the two Goates, one lot for the Lord, and the other Lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for the ſcape Goate.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Peter 3.18.</hi>
+               </bibl>
+               <p>For Chriſt alſo hath once ſuffered for ſins, the juſt for the unjuſt (that he might bring us to God) being put to death in the fleſh, but quickned by the ſpirit.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 13.4.</hi>
+               </bibl>
+               <p>For though he was crucified through weakneſſe, yet he liveth through the power of God.</p>
+            </q>
+            <p>Printed at <hi>Yorke</hi> by <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Broad,</hi> dwelling in Stone-Gate over againſt the Star<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46280:2"/>
+            <pb facs="tcp:46280:2"/>
+            <head>To his Excellencie <hi>Robert</hi> Earle of <hi>Eſſex,</hi> Viſ<g ref="char:EOLhyphen"/>count <hi>Hereford,</hi> Baron <hi>Ferrars of Chartley,</hi> Lord <hi>Bourchier</hi> and <hi>Lovaine;</hi> one of His Majeſties moſt Honourable Privie Counſell, &amp; Generall of the Army raiſed in defence of the true Proteſtant Religion, his Sacred Ma<g ref="char:EOLhyphen"/>jeſties perſon, Kingdomes, Parliament, &amp;c. Grace, Mercie, Truth, and Peace here, and everlaſting filicity hereafter, by <hi>Jeſus Chriſt.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honourable, I humbly crave leave to enſhrowde theſe enſuing Notes under your Excellencies pa<g ref="char:EOLhyphen"/>tronage, and though there be (as the Philoſopher ſpeakes) <hi>megiſte di<g ref="char:EOLhyphen"/>aſtaſis,</hi> which might have deterred me;<note place="margin">Eight Ew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</note> yet three things among others moved me to this boldneſſe, Firſt, that kind and thankful acceptance of my poore paines, and that moſt Noble reſpect which your Excel<g ref="char:EOLhyphen"/>ency was pleaſed to afford to mee at <hi>Rippon;</hi> when it was (not my deſert, but) my duty and ſolace towaite on your Excel<g ref="char:EOLhyphen"/>lency, with<note n="*" place="margin">E. of Belford E. of Hartford <hi>(now Mar<g ref="char:EOLhyphen"/>ques)</hi> Earl of Eſſx. Ea. of Salisb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yr, E. of W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iebe. E. of Be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſiolle, E of Helamd, E. of Barliſhire: <hi>8.</hi> Lords the L Wharton. L Paget L. Mandevile, <hi>(now Earl of Man<g ref="char:EOLhyphen"/>cheſter,)</hi> L. Brooke. L. Pawlet. L Howard. L Savil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L. Dunſmore, <hi>Commiſſioners for England. And for</hi> Scotland. <hi>8.</hi> Viz. Earl of Dumfermling. L. Lowdon. Sir Willian Dowglaſſe. Sir Partr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Hephurne Mr. Satith. M. Wetherburne. M. Henderſon. M. John<g ref="char:EOLhyphen"/>ſton (ſince Knighted,)</note> fifteene other moſt noble Earles and Lords, at that great and ſucceſſefull Treaty, betwixt the two King<g ref="char:EOLhyphen"/>domes
+<pb facs="tcp:46280:3"/>of <hi>England</hi> and <hi>Scotland,</hi> beginning in <hi>October,</hi> 1640. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how much (though eſpecially, yet not onely I, but) all the King<g ref="char:EOLhyphen"/>dome, and the children yet unborne of both theſe ſiſter Nation have cauſe to bleſſe God for you, and you all for God, though we already perceive in ſome large meaſure yet hitherto but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And what an unſpeakable loſſe, the whole Land (and m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſelfe in particular) had, by the death of that moſt Noble, and worthy Patriot, the Right Honourable, the old Earle of <hi>Bedford</hi> and what a want theſe preſent times have of him, your Excel<g ref="char:EOLhyphen"/>lency among others fully knowes, and I feele.</p>
+            <p>Secondly, theſe Notes were preached before our <hi>Joſhua</hi> of the North, the Right Honourable <hi>Ferdinando</hi> Lord <hi>Fairfax,</hi> and his Army, (of whoſe fidelity to his Countrey, courage for God and his Cauſe, cordiall and reciprocall affection of his Countrey to him, and his to them, I need not tell the world, much leſſe this Kingdome. And therefore may with ſomewhat more boldneſſe returne to your Excellency, as their Spring and Head. Thirdly, ſomething in theſe Notes treats of the honour and duty of Soul<g ref="char:EOLhyphen"/>diers; your Excellency is (and hath of long been) knowne to be a man of War, 2 <hi>Chron.</hi> 8.9. Now theſe lines may ſerve (like King <hi>Philips</hi> Monitor) ſometimes to recall to your mind, firſt, a Soul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diers place, its lawfulneſſe, antiquity and honour, &amp;c. ſecondly, the quality of the perſons, Souldiers ſhould be holy, God calls his Souldiers as well ſanctified ones as mighty, <hi>Iſa.</hi> 13.3. Thirdly, of their duty, firſt, to take God with them, they may not fotger the God of the Arke when they goe to battell, they had better leave behinde them the Arke of God, 1 <hi>Sam.</hi> 4.3. 2 <hi>San</hi> 15.25. <hi>Saul</hi> (as ill as he was) would not goe out againſt the <hi>Philiſtins</hi> till he had prayed and ſacrified,<note place="margin">
+                  <hi>Pſal. 76.2, 3</hi> at Gods Ta<g ref="char:EOLhyphen"/>bernacle were the Arrowes, Sword, Bow, and Shield, breken, and batted wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne.</note> 1 <hi>Sam.</hi> 13.12. Though <hi>Jeh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhapha</hi> had almoſt 1200000. valiant warring men, 2 <hi>Chron.</hi> 17.14.—19. (though but in about two Tribes, whereof the whole twelve were not by the fourth part ſo big as <hi>England</hi>) an Army (one would thinke) enough to have over-run a world, yet puts all his confi<g ref="char:EOLhyphen"/>dence in God by prayer, and ſayes ſtill, without him they had no ſtrength, 2 <hi>Chron.</hi> 20.12. <hi>Eliſhas</hi> prayers,* ſlay as many as the ſword of <hi>Hazael</hi> and <hi>Jehu.</hi> 1 <hi>King.</hi> 19.15, 16, 17. Salomon had
+<pb facs="tcp:46280:3"/>40000. ſtalls of horſes for his Chariots, 1400. Chari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts, 12000. horſemen, 1 <hi>Kings</hi> 10.26. &amp; 4.26. yet found no ſafety <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot to runne to God, 1 <hi>Kings</hi> 8.33, 34 <hi>Prov.</hi> 18.10. <hi>David</hi> had (in a Kingdome) as I ſaid much leſſe then ours, they had but 12 Tribes, we 52 ſhires) fifteen hundred threeſcore and ten thouſand men that drew ſword (and yet two Tribes were left unnumbred) 1 <hi>Chron.</hi> 21.5, 6. him<g ref="char:EOLhyphen"/>ſelf as gallant a man as drew ſword, 1 <hi>Samuel</hi> 18.7. he had thir<g ref="char:EOLhyphen"/>ty ſeven ſpeciall choice Worthies, 2 <hi>Sam.</hi> 23.35. whereof one ſlew 300. men, another ſlew 800. men, another ſlew a Lyon, and two Lyon-like men of <hi>Moah,</hi> and an Egyptian Cyant: another defended a field of barley, another a field of Lentiles againſt an Army, (and many ſuch like) 2 <hi>Sam.</hi> 23. yet makes God his onely Rock, <hi>Pſal.</hi> 18.2. and reſts on him alone by praver for conqueſt.<note n="*" place="margin">By Dr. Smoaking Flax, Ep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Pſal.</hi> 56.9. be pleaſed to remember what was ſaid to Generalt <hi>Vere [Souldiers that carry their lives in their bands, had need above others to, carry grace in their hearts.]</hi>
+            </p>
+            <p>Secondly, to leave their ſins behind them, <hi>Deut.</hi> 23.9, 14. Cary no wedge or Babyloniſh garment, <hi>Joſh.</hi> 7. may I not ſay as the E<g ref="char:EOLhyphen"/>gyptians to their King, let your ſins go, elſe you know not, that <hi>England</hi> is deſtroyed, that we be all but dead men, <hi>Exod</hi> 10.7. and 12.33. Be pleaſed to call to mind that ſweet and experimental Speech of your Excellencies moſt renowned Father, [<note n="b" place="margin">Dr. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in his S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſat Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſis, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>1.16</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day of or Earler de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Sometimes in the Field encountring the Enemy, the weight of my ſins lying heavy up<g ref="char:EOLhyphen"/>on my conſcience quell my ſpirits, and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nake me the moſt timerous and fear<g ref="char:EOLhyphen"/>full man that may be; whereas finding my peace with God in a morning, maketh me as bold as a Lyon.</hi>]</p>
+            <p>Thirdly, to goe by a right rule, from a right Principle, and aime at a right end, not the deſolating, but recovery of a ſick and ſinfull Kingdome, the ſealing of a happy and holy peace; not a<g ref="char:EOLhyphen"/>ny way at his ſacred Majeſties leaſt hu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t,<note n="c" place="margin">To bee friend to King is a old ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Sar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bal</hi> Neb. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.1.</hi> Jewes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>19.12.</hi> ye they but bour to be firſt in br<g ref="char:EOLhyphen"/>ing the K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> back, <hi>2.</hi> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>19.41, &amp;<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> (Oh God forbid, 1 <hi>Sam.</hi> 24.5. &amp; 26.9.) I am verily perſwaded that no man doth more de<g ref="char:EOLhyphen"/>ſire his Majeſties ſafety, honour and happineſſe, then your ſelfe, (according to your Allegeance and late Proteſtation,) and that you would not have one haire of his head to periſh: elſe could you never have ſo many wraſtling crying prayers, as I think never any Generall or Army to this day ever had, of thoſe whoſe per<g ref="char:EOLhyphen"/>ſons are pretious, 2 <hi>Cor.</hi> 8 23. whoſe teares have lowd tongues,
+<pb facs="tcp:46280:4"/>
+               <hi>Pſal.</hi> 6.8. whoſe Prayers are moſt pleaſant to God, <hi>Cant.</hi> 2.14. and have (as I may ſay) a wraſtling, <hi>Hoſ.</hi> 12.4. prevailing, <hi>Pſal.</hi> 50.15. nay, a commanding power with God, <hi>Iſa.</hi> 45.11. Wee have heard much fame of the Heathen Generals, <hi>Achilles, Hector, Hanniball, Sci<g ref="char:EOLhyphen"/>pin, Seanderbag,</hi> &amp;c. but what (alas) did theſe regard God, his Church, his Cauſe, or God them? But we are confident of other ends and principles in your Excellency, and hope that God will uſe your Excellency as a bleſſed inſtrument for ſetling ſuch a roall Peace, and bringing in ſuch happy times as our Kings Majeſty, &amp; all the Land, yea, the child yet unborne, will ſee cauſe to bleſſe God for you, and acknowledge Gods goodneſſe and mercy to <hi>England</hi> by you. Wee have had mercies hitherto a long time on free coſt; if we pay now a little dearer then formerly, we hope for ſo much better dayes; the fulfilling of the Propheſie, <hi>Iſa.</hi> 30.26. the fall of Babylon, the advancing of Gods Church, clearing of his truth, the engrafting of the broken branch into the true Olive; how have the people of God been ſcorned and nicknamed a long time, for <hi>Waldenſes, Huſſites, Lollards, Lutherans, Hugenots, Preciſians, Puritans,</hi> (or all in one) <hi>Round-heads;</hi> (As a Parliament man ſaid well, the word Puritan in the mouth of an Arminian, ſignifies an Orthodox Divine; in the mouth of a Drunkard, ſignifies a ſober man, in the mouth of a Papiſt, ſignifies a Proteſtant,) &amp;c. And true it is, Gods Church may have Winter and Summer, ſeed time and harveſt, <hi>Gen.</hi> 8.22. and we hope ere long to ſing with the Spouſe (through Gods mercy to his Majeſty, the high Court of Parlia<g ref="char:EOLhyphen"/>ment, your Excellency, and theſe Kingdomes,) <hi>The Winter is paſt, the Raine is over and gone,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.11, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>the Flowers appeare on the earth, the time of finging of Birds is come.</hi> That thoſe that ſowed in teares ſhall reape in joy, <hi>Pſal.</hi> 126.5, 6. When God will reſtore his out-caſts, <hi>Jer.</hi> 30.16, 17. and that as the high and Honourable Aſſembly ſpoke of that wonderfull ſucceſſe at <hi>Leeds,</hi> that God had heard prayers, ſo ſtill he will, till his Temple bee finiſhed, his ſervants cleared who have long ſuffered. My very Honourable Lord! ſuch have been your tryed valour, fidelity to your Countrey, your kind reſpect to Gods Miniſters, love to Gods Servants, undaunted courage for Gods cauſe, &amp;c. that were I not in awe of your Excellencies
+<pb facs="tcp:46280:4"/>humility, (more then of your Army) I might enlarge any one of heſe beyond and Epiſtle; but I well know, that your Excellency he more you deſerve, the leſſe you deſire praiſe. I will onely doe that which more ſuits with my deſire, and profeſſion, humbly trave pardon for this boldneſſe, and leave, that theſe notes may paſſe under your Excellencies patronage and protection;<note place="margin">
+                  <hi>Job</hi> 32.22.</note> and ſhall not ceaſe to bend my knees to the Father, and our Lord Jeſus Chriſt, for my Soveraigne, his great Counſell, your Excellencies proſperous ſucceſſe in Gods way, encreaſe of grace here, and eter<g ref="char:EOLhyphen"/>nall felicity hereafter; ſuch are the unceſſant requeſts, of the poor<note n="*" place="margin">Text.</note> earthen veſſell, who is</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Excellencies moſt humble ſervant, and daily Remembrancer at Gods Throne, JOHN SHAW.</signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 4. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46280:5"/>
+            <pb facs="tcp:46280:5"/>
+            <head>To the Chriſtian Reader: <hi>ESPECIALLY,</hi> To my moſt tenderly affected flocke at <hi>Rothe<g ref="char:EOLhyphen"/>ram</hi> in the Weſt-riding of the county of <hi>YORK.</hi>
+            </head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F you that know me, wonder (as they of <hi>Saul,</hi> 1 Sam. 10.11.) to ſee mee now abroad in theſe heavie and quar<g ref="char:EOLhyphen"/>relling times, wherein men turn Plow-ſhares into ſwords, Joel 3.10. and when my poore Library and I are ſo far a ſunder,<note n="*" place="margin">Now quite plundered ſince this Ser<g ref="char:EOLhyphen"/>min was Preached.</note> who have in fair Halcyon dayes, and when I had much more leiſure affected privacie: take my anſwer from the Prophet <hi>Amos, chap.</hi> 3. <hi>v.</hi> 8. The Lyon hath roared who will not fear, the Lord hath ſpoken who can but propheſie; the childe who had bin dumbe from his birth when he ſaw his father in danger of death, cryed alond; how can I do leſſe, when my Mother Eng<g ref="char:EOLhyphen"/>land lyes a gaſping? we have hitherto lived under our own Vines and Fig-trees, which have bin neither barren nor unfruitfull, and have too much waxed fat and kicked; ſome conceive, that after three yeeres of famine, which God ſent upon Canaan, for <hi>Sauls</hi> ſlaying the Gibeonites, 2 <hi>Sam,</hi> 21.1. God ſent them one yeer of peace and plenty, which the Iſraelites being unthankfull for, and abuſing to riot, that was the ſin,<note place="margin">2 <hi>Chron.</hi> 21.</note> that provoked God to leave their King to himſelf, and to Sathan, for a ſore puniſhment to the peo<g ref="char:EOLhyphen"/>ple, 2 <hi>Sam.</hi> 24.1. and no wonder if the peoples abuſe of mercies,
+<pb facs="tcp:46280:6"/>cauſe a King to be left to himſelfe, (an ill ſtomacke may make a good head ake, good eyes dimme) for (not onely they a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> body, but) the Kings error will prove the peoples puniſhment and miſery,<note place="margin">
+                  <hi>Sam.</hi> 12.22</note> as in <hi>Davids</hi> errour, 70000, of the people dyed. So <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, God layes on us the ſoreſt of his Arrowes, <hi>Ezek.</hi> 5.16. 2 <hi>Sam.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.14. <hi>viz.</hi> War, ill in it ſelfe, <hi>Pſal.</hi> 87.63. ill in its attendants, peſti<g ref="char:EOLhyphen"/>lence, famine, <hi>Deut.</hi> 28.56. and ſcandall, eſpecially civill, (or ra<g ref="char:EOLhyphen"/>ther barbarous,) War, twixt Fathers and Sonnes, &amp;c. <hi>Jer.</hi> 13.12, 13, 14. its God red horſe, <hi>Revel.</hi> 6.4. (as the<note n="*" place="margin">The valley of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſe.</note> valley was called where the late bloudy Battell was fought, neere <hi>Edge-hill,</hi> on the ſame day<note n="*" place="margin">Octob. <hi>23.</hi>
+               </note> that the Rebellion of <hi>Ireland</hi> broke out, and the bloudy Battell was fought neere <hi>Leipſick</hi> in <hi>Germany,</hi> (as ſome obſerve,) God keep us from being ſuch <hi>Acheldima's,</hi> ſuch <hi>Golgotha's,</hi> as <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> as <hi>Germany,</hi>) and this to avenge the quarrell of his Covenant, <hi>Lev.</hi> 26.25. to teach our Inhabitants righteouſneſſe, <hi>Iſa.</hi> 26.10. and to ſeeke God early, <hi>Hoſ.</hi> 5.15.</p>
+            <p>But in eſpeciall let me ſay a word to thee (beloved <hi>Rotherham,</hi>) heretofore poore and obſcure, but the Sunne of Gods mercy brea<g ref="char:EOLhyphen"/>king in upon thee, hath made thee famous; <hi>Mr. Camhden</hi> ſaith, that thou art well ſeared, but the iniquity of the times hath ſwallow<g ref="char:EOLhyphen"/>ed up thy Benefactors bounty; but the great Benefactor who to other places hath ſhewed mercies, hath to thee miracles, and I hope nor you nor I ſhall ever forget theſe <hi>magnalia Dei,</hi> (as the Iſ<g ref="char:EOLhyphen"/>raelites did <hi>Pſal.</hi> 78.42.) untill our memories faile us as ill as <hi>Meſ<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la Corvinus<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> who forgot his owne name: many remporall mer<g ref="char:EOLhyphen"/>cies God hath ſurrounded thee withall, but this of late hath (as God ſpeakes, <hi>Jer.</hi> 23.7, 8.) overtopped the reſt, thou mayeſt here<g ref="char:EOLhyphen"/>after Chronicle the 22. of <hi>January,</hi> for another<note n="*" place="margin">Fall of black F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rers.</note> 
+               <hi>October</hi> 26. or 5.<note n="*" place="margin">G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>powder Treaſot.</note> of <hi>November,</hi> with which late mercy let mee hereby acquaint o<g ref="char:EOLhyphen"/>thers, that as I have often begged for thee prayers, ſo now praiſes.</p>
+            <p>On the two and twentieth of <hi>January,</hi> being the Lords day, the people being at Church (the poore Towne of <hi>Rotherham,</hi> having neither Walls, Bulwarks, Garriſon, Fortification, Watch, &amp;c.) betwixt ten and eleven of clock, about the middle of the Sermon, ſuddenly came, betwixt ſix and ſeven hundred Cavalleers, with Muskets, Dragoones, &amp;c. (who had beene billetted at <hi>Pontefract,</hi> and eſpecially at <hi>Do<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>caſter,</hi> (and that (as after appeared,) by the
+<pb facs="tcp:46280:6"/>ſollicitation of ſome wicked Malignants in the Towne, who had a formed them that there was no ſtrength nor powder in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne,) but being through Gods mercy diſcerned, ere they got <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>the Townes end, and with the rumour of it the people in the Church much affrighted, (ſo as a Corps<note n="*" place="margin">Leo Rigg.</note> lay a long time unburi<g ref="char:EOLhyphen"/>ed) about 24. or 25. men got Muskets, and without Order, Rank, File, or almoſt any skill, (ſave onely that God taught their hands to war and their fingers to fight, (theſe few boldly and couragi<g ref="char:EOLhyphen"/>ouſly reſiſted all that great Company a full houre and halfe, ſo that bullets flew exreeding ſharply and thicke in the ſtreets, and in the end (though ſcarce any powder left) ſlew and wounded many, and drove the reſt away <hi>Yorkeſhire</hi> hath found many experi<g ref="char:EOLhyphen"/>ments of ſuch mercies, witneſſe <hi>Leede<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Selby, Bradford, Hall, H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſun-Moore,</hi> &amp;c. Like as when <hi>Judg.</hi> 4. that great Army and 900. chari<g ref="char:EOLhyphen"/>ots of Iron with the Lord Generall <hi>Siſera</hi> himſelfe were delivered into the hands of two weake women, <hi>Deborah</hi> and <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el,</hi> or of that <hi>Judg.</hi> 7.8, 12. where an innumarable company were diſcomfited with <hi>Gideons</hi> 300 Lamps and Pitchers: But it is uſuall with the Lord. <hi>Jericho's</hi> walls fell downe without any warlike inſtrument, <hi>Joſh.</hi> 6.20. God caſt ſtones from heaven upon the Enemies, <hi>Ioſh.</hi> 10.11. Cauſed ſtars to fight from heaven, <hi>Iudg.</hi> 5. Angele, Thunder, Raine, Hailſtones, 1 <hi>Sam.</hi> 7.10. put an Army to flight at the ſight of two men, 1 <hi>Sam.</hi> 15.13. affrighted Enemies when none appea<g ref="char:EOLhyphen"/>red againſt them, 2 <hi>Sam.</hi> 5.24. 2 <hi>King.</hi> 7.6. deſtroying them by their owne fancy, 2 <hi>King.</hi> 3.23.24. ſetting Enemies one againſt a<g ref="char:EOLhyphen"/>nother, <hi>Iudg.</hi> 7.22. 2 <hi>Chro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 20.22. dicom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iting them by Frogs, Flies, Lice. Wee find <hi>Num.</hi> 31. that 12000. Iſraelites fought a<g ref="char:EOLhyphen"/>gainſt five Kings and their Armies, <hi>ver.</hi> 8. an innumerable company conquered them, tooke of prey, 675000. ſheepe, 72000. beeves, 61000. Aſſes, and abundance of priſoners, <hi>ver.</hi> 32, 33, 34, 35. and yet (which was the great wonder) loſt not one man at all; 'tis true, <hi>Rotherham</hi> had but a few men, but as <hi>Antigonus</hi> ſaid to his Souldiers (who did complaine for want of men,) how many doe you account me for? So if God be for us it is enough, <hi>Rom.</hi> 8.31. then are we more for number, 2 <hi>King.</hi> 6.16. 2 <hi>Chron.</hi> 32.7. and ſtronger for power then the Enemy can be, 2 <hi>Chron.</hi> 32.8. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>When your Enemies came out againſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:46280:7"/>of <hi>Pharoah, Exod.</hi> 15.9. <hi>I will purſie, I will overtake, I will divide the ſpo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I will be ſatisfied upon them; I will draw my ſword, mine band ſhall deſtroy them;</hi> did not God turn the wind, and blow againſt them, <hi>v.</hi> 10. and may not wee all ſing <hi>Moſes</hi> ſong, <hi>Who is like unto thee O Lord among the gods,</hi> as it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But ah dear ſoules! what hath been done to the Lord for all this (as the King ſaid concerning <hi>Mordecai, Eſt,</hi> 6.3. <hi>God indeed made a hedge about us, fenced and dreſſed us, but did we not bring forth wilde Grapes? Iſa</hi> 5. and therefore how did God make a ſad breach upon us on Thurſday, <hi>May</hi> 4. 1643.</p>
+            <p>For where as when we had no workes, ſcarce any ſouldiers, <hi>Jan.</hi> 22. you ſlow many of the enemy, &amp; beat the reſt back with ſhame, <hi>May</hi> 4. Now having ſtrong workes, gallant Captaines, and ſtout ſouldiers, yet our ſinnes, diſtractions, and wants within, compelled us to yeeld to an inſulting and promiſe-breaking Army without, who promiſed us our lives,<note place="margin">Eſpecially Th. St. N Eſq. L. Coll. W.S. Maju W.F. Capt. H.W. Capt. G.W. Jo. S. Paſtor, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a An &amp;c. Mr. K. Mr. G.</note> liberties, eſtates, &amp;c. under their hands: and then fined, impriſoned, plundered, baniſhed, and moſt cruelly uſed divers of us, yea ſcattered us a ſunder into corners, ſo as wee durſt ſcarce ſee one another ſince, <hi>Act.</hi> 8.1. But firſt let us with <hi>Job</hi> through all the plundering enemies, ſee the hand of our God, lay our hand upon our mouths with <hi>David, Pſal.</hi> 39. and ſay with <hi>Ezra Chap.</hi> 9.13, 14. <hi>theu our God haſt puniſhed us leſſe then our iniquit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es de<g ref="char:EOLhyphen"/>ſerve.</hi>
+            </p>
+            <p>Secondly, let us not be caſt down nor diſmayed, God will car<g ref="char:EOLhyphen"/>ry on his great work, which he hath to do upon Mount-Zion, and in Jeruſalem, and then his and his Churches enemies ſhall down, <hi>Iſa</hi> 10.12, 25. yea all ſuch as clap their hands, or cry aha at the Churches miſery, <hi>Ezek.</hi> 25.3, 6.</p>
+            <p>Thirdly, ſpread poor <hi>Englands</hi> caſe (as ſomtimes <hi>Hezekiah</hi> did the Letter) before the Lord, let not the Angell of the Covenant goe (<hi>Gen.</hi> 32.26.) till he be at peace with our poor ſick Mother, and (not a politique Kingdom-deſtroying peace, as <hi>Dan.</hi> 8.25. but) a holy and happy Peace be ſetled among our ſelves; or if that <hi>Ro<g ref="char:EOLhyphen"/>bert Groſthead</hi> that great Biſhop of <hi>Lincoln</hi> muſt needs be a Prophet, who a little before his death (having ſeen much of the abomina<g ref="char:EOLhyphen"/>tion of Poperie) propheſied in the dayes of <hi>H.</hi> 3. <hi>nunquam liberabi<g ref="char:EOLhyphen"/>tur Eccleſia ab Egyptiaca ſervitute niſi in ore gladii cruentandi,</hi> oh then hold up your hands upon the Mount, <hi>Exod.</hi> 17.11, 12. untill the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh, Popiſh, Amalekites be ſubdued.</p>
+            <pb facs="tcp:46280:7"/>
+            <p>Fourthly, let us humble our ſelves for all our ſinnes, that ſtop and hinder Reformation; that furniſh the enemy, and wound the Church, 2 <hi>Chron.</hi> 20.33. <hi>Deut.</hi> 8.15, 16. <hi>Lev.</hi> 26.41, 42. yea, and bee humbled from our ſins, God will not have Satan caſt out Satan, &amp;c. Fifthly, Pray for, cry, beg our King at the hands of God, that they who hear us may ſay, <hi>impoſſibile eſt filium tantarum laer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>marum, perire;</hi> that if any do wickedly traduce us as no friends to the King, we may cordially and comfortably with the two Tribes and a half make our appeal to the All-ſeeing Searcher of hearts, in the words that (as common fame reports, and their priſoners taken related) the enemies Chaplaine tooke for his Text on Heſſam-Moore, on Tueſday, <hi>July</hi> 2. 1644. (immediatly before that moſt memorable battell, where God was ſo ſeen in the Mount) encour raging them to ſight, <hi>Joſhua</hi> 22.22. <hi>[The Lord God of gods, the Lord God of gods he knoweth, and-Iſraell ſhall know, if it be in Rebellion, or if in tranſgreſſion againſt the Lord, ſave us not this day,]</hi> wee dare appeale to the moſt high, that wee heartily wiſh K. <hi>CHARLES</hi> may conquer, with ſuch a Conqueſt, as was mentioned in a paper ſet upon <hi>B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dem</hi> Batre in <hi>Yorke</hi> City, as King <hi>James</hi> rode under it, when hee firſt came from <hi>Scotland,</hi> and entred that ancient City <hi>[Suaviſſina vict<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ria amor populi.]</hi>
+            </p>
+            <p>Sixthly, let us keep our godly Vowes, and lawfull Proteſtations we have made with God, that is the way to roote out all Rebels out of theſe Kingdomes, <hi>Ezek.</hi> 20.37, 38. <hi>[then will I purge out from among you the Rebels.]</hi> This is the way to remove Gods heavie wrath from our Land, 2 <hi>Chron.</hi> 29.10.</p>
+            <p>Seventhly, go we our way and ſin no more; remember wee, and tell unto our children, what God did for us, <hi>Jan.</hi> 22. 1642. what God did to us, <hi>May</hi> 4. 1643. how God threatned us, <hi>Sept.</hi> 11. 1642. what a heavie Sabbath wee then kept: how God terrified us on Thurſday, <hi>Januar.</hi> 19. 1642. let us now turne from our evill wayes, 2 <hi>Chron.</hi> 7.14. ſo may our Land yet be healed, and Jeruſalems Wall be built up in the mid deſt of theſe troublous times. <hi>Dan.</hi> 9.25 God is now in ſifting out the Bran of the Kingdome, <hi>Amos</hi> 9.9. waſhing away of ſpots and purging away our droſſe, <hi>Mall</hi> 3.2, 3. and will either cure or kill us, purge us or burne us, <hi>Ezek.</hi> 24. hold out Faith and patience, (as the Martyrſaid) Antichriſt is falling, hee that ſhall come, will come, and will not tary.</p>
+            <pb facs="tcp:46280:8"/>
+            <p>And now to you bleſſed Doves that flock to peck up the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Gods word, doe I bequeath theſe few Notes. 1. out of my de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and tender affection to you all (and my Neighbour native So<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> and I deſire heartily that by the common enemy we may reap th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> good, that we may all more firmely and cordially be knit together in the beſt bond of love. 2. That you may have theſe things in re<g ref="char:EOLhyphen"/>membrance when I am gone, I would leave this pledge with you. 3. Not knowing hovv ſoon I muſt put off my Tabernacle (the circle of my yeers having run 34 times about,) I would do all the good I can. 4. To Cronicle this mercy to poſterity. Let me (to conclude, for my affection ſtayes me long) entreat you, Firſt, to ſet a ſpeciall watch againſt all Malignants in thy heart, towne, or abroad. Se<g ref="char:EOLhyphen"/>condly, prepare Oyle ready, and a good Foundation againſt the worſt times. Thirdly, do all from God, and for God. Fourthly, to the Martyrs, pray, pray, pray; adde praiſe, praiſe, praiſe, and work, work, work, and whoſoever reades theſe lines, afford a prayer, for</p>
+            <closer>
+               <signed>
+                  <hi>The leaſt of Gods mercies,</hi> JOHN SHAW,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:46280:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Leviticus 14. v. 4, 5, 6, 7, 8.</hi>
+                  </bibl>
+                  <p>Then ſhall the Prieſt command to take for him that is to be cleanſed, two Birds alive, and cleane, and Cedar wood, and ſcarlot, and byſſipe, <hi>5.</hi> And the Prieſt ſhall command that one of the birds be killed in an earthen veſſell, over running water. <hi>6.</hi> As for the living bird bee ſhall take it, and ths Cedar wood, and the skarlet, and the hyſſop, and ſhall dip them, and the living bird, in the bloud of the bird that was killed over the running water. <hi>7.</hi> And hee ſhall ſprinkle upon him that is to be cleanſed from his leproſie ſeven times, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Booke of <hi>Levitious</hi> is <hi>Moſes</hi> Goſpell, or the Goſpell vailed; and what that prince<g ref="char:EOLhyphen"/>ly Preacher, <hi>Count Anh ilt,</hi> ſaid of the whole Scripture, (that it is nothing elſe but the ſwadling clothes of the childe <hi>Jeſus,</hi>) is moſt true of this Ceremoniall Law, <hi>Heb.</hi> 10.1. All theſe Sacrifices in this Cere<g ref="char:EOLhyphen"/>moniall Law, of Beeyes, Sheep Goats, and lambs, &amp;c. did with <hi>Iohn Baptiſt</hi> point out and ſay, <hi>Bebold the Lambe of God that takes away the ſinnes of the wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d;</hi> God intending by all theſe Ceremonially, holy Perſons, holy places, holy times,<note place="margin">
+                  <hi>Iohn</hi> 1.29.</note> holy things, to teach us that as well the Fathers under the Law, as we under the Goſpell, could be ſaved by no other, but that ho<g ref="char:EOLhyphen"/>ly thing which was borne of a Virgin, and called the Son of God, <hi>Col.</hi> 2.17. And all thoſe legall pollutions and defilements by iſſues touches, leproſies, &amp;c. did nothing elſe but ſhadow out that moſt
+<pb n="2" facs="tcp:46280:9"/>horrid filth, and grand abominable pollution of ſin, which e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no way elſe be waſhed away, but by the ſprinkling of Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bloud upon our conſciences, <hi>Heb.</hi> 9.13, 14, till we waſh in this Jor<g ref="char:EOLhyphen"/>dan, <hi>Zach.</hi> 13.1, 2. God gave the morall Law which concerned all men, upon a mountaine, <hi>Horeb,</hi> (or as it was after upon occaſion of the Buſhes burning, <hi>Exod.</hi> 2. called <hi>Sinai,</hi>) to ſet out the ſtabili<g ref="char:EOLhyphen"/>ty and firmneſſe of it, which ſhould laſt till Chriſts ſecond coming to diſſolve the mountaines; but hee gave the Ceremoniall Law (which concerned the Jewes, and was (as the Greek Etymologie of the word notes, <hi>eis kairon monon,</hi> to laſt but for a time onely,) in a tent or flitting Tabernacle to <hi>Moſes,</hi> noting the muta<g ref="char:EOLhyphen"/>bility of it, that it ſhould laſt no longer then the things of the ta<g ref="char:EOLhyphen"/>bernacle, <hi>i.e.</hi> Chriſts firſt comming; who was the ſubſtance &amp; fulfil<g ref="char:EOLhyphen"/>ling of it, as <hi>St. Ambroſe</hi> well; <q>the ſhadow of Chriſt was in the Law, his image in the Goſpell, his fulneſſe in Heaven.</q>
+            </p>
+            <p>Now in this Ceremoniall Law (which directed the Jew in the duties of the firſt Table of the morall Law towards God; as the Judiciall Law did, in the duties of the ſecond Table, toward men.) There are divers kinds of Legall pollutions mentioned, one outward, by touching any uncleane creature, &amp;c. <hi>Levis.</hi> 11. a<g ref="char:EOLhyphen"/>nother inward, by iſſues from within the bodies of men and wo<g ref="char:EOLhyphen"/>men, <hi>Lev.</hi> 12. A third, (and worſt of all,) both inward and outwand <hi>Lev.</hi> 13. &amp; 14. here in Text, and that is Leproſie.</p>
+            <p>In the words obſerve, Firſt, the uncleanneſſe or defilement he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mentioned, for the kind of it, what it was, <hi>viz.</hi> Lepr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſie, the word of all legall pollutions, moſt loath ſome in it ſelfe, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the party, moſt infectious to others.</p>
+            <p>Secondly, the materials appointed for the cleanſing this Lep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and they are five, firſt, one bird that muſt be taken and killed out an earthen veſſell full of freſh ſpring running water. Secondly, a<g ref="char:EOLhyphen"/>nother bird of the ſame kind as like as may be (both clean) which muſt not be killed. Thirdly, Cedar-wood. Fourthly, Hyſſop-Fifthly, Skarlet, (or as it is, <hi>Heb.</hi> 9.19. Skarlet wool.</p>
+            <p>Thirdly, the preparation of theſe for, and application of theſe to the Leper, <hi>viz.</hi> Firſt the Prieſt muſt take the live bird, Cedar, Skarlet, and Hyſſop in his hand, and dip them all in the bloud of the ſlaine bird mingled with the water in the earthen veſſell. Se<g ref="char:EOLhyphen"/>condly, he muſt beſprinkle the Leper that is to be cleanſed, ſeven
+<pb n="3" facs="tcp:46280:9"/>times (ſome conceive the Cedar wood to be the handle, the hyſſop <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſprinkler, and Skarlet the tye of them together, with which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Prieſt ſprinkled the water and bloud upon the Leper?) and let <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elive-bird looſe into the field.</p>
+            <p>Fourthly, the demeanor and carriage of the party himſelf thus cleanſed; <hi>viz.</hi> he muſt ſhave off his haire, waſh his fleſh and his cloathes, and bring his treſpaſſe Offering, &amp;c. Now if any of you that hears and reads this Text, ſhould whiſper his neighbour in the eare, and ſay as ſometimes <hi>Phillip</hi> did to the Ethiopian Eu<g ref="char:EOLhyphen"/>nuch, <hi>Act.</hi> 8.30. Underſtandeſt thou what thou readeſt? Perhaps he would returne you that anſwer which the Eunuch did to <hi>Phil<g ref="char:EOLhyphen"/>lip, ver.</hi> 31. How can I except ſome man ſhould guide me. Let me intreate you therefore who are the ſtronger ſheep of Chriſts flock, to ſtay a while, till I for the uſe of the weaker flocke unroll this ſtone, and drive the tender lambs ſoftly; and that I may be a pil<g ref="char:EOLhyphen"/>lar of fire (as was ſaid of <hi>Baſil,</hi>) to lead you in this Wilderneſſe,<note place="margin">
+                  <hi>Gen.</hi> 33.13.14.</note> a ſtar to leade you to Chriſt in the Text; the bleſſing of him that appeared in the Buſh, who onely was found worthy to open the Seales, proſper our journey amongſt you this day. And firſt of the firſt, the pollution or defilement of Leproſie; a diſeaſe (as I ſaid) of all others moſt filthy. The Hebrews call it by a name that ſignifies a fretting piercing ſore, The Syriack and the Greek,<note place="margin">
+                  <hi>Rev.</hi> 5.5.</note> Scabbedneſſe, Scurfe or Scales: The Caldee, ſhutting out, or Se<g ref="char:EOLhyphen"/>cluſion: All ſhewing that it was a diſeaſe in it ſelfe moſt ſcurvy and loathſome; to the party moſt painfull and piercing, to others moſt infectious, ſo that the Lepers were ſecluded and ſhut out, both from the congregation of God, and the ſociety and camp of men during their Leproſie: yea, though Kings, as <hi>Azariah</hi> (or <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi>) 2 <hi>Chron.</hi> 26.21. 2 <hi>Kin.</hi> 15.5. though great perſons as <hi>Mi<g ref="char:EOLhyphen"/>riam, Num.</hi> 12.14 Lepers were therefore without the City alone by themſelves, 2 <hi>King.</hi> 7.3. <hi>Mat.</hi> 8.1. <hi>Luke</hi> 17.11. ſo God commanded, <hi>Num.</hi> 5.2, 3. that they might not deſile the Camp or Church, God doth hereby ſet out, and by theſe ſenſible objects would lead the Jew as by the noſe, and would have both Jewes and Gentiles hereby to diſcerne and loath, that exceeding filth and loath ſom<g ref="char:EOLhyphen"/>neſſe of ſin: as if he had ſaid, You are very ſenſible, and afraid of exceeding pained, with and weary of the diſeaſe and defilemen, of Leproſie; Oh learn to hate and abhor ſin which is typed heret
+<pb n="4" facs="tcp:46280:10"/>by, and is far more loathſome, as the ſubſtance goes beyond the ſhadow, the body, the picture. Now that God did intend hereby to ſet out the ſilth of ſin, appeares, Firſt, becauſe that this diſeaſe was more common in the Land of <hi>Canaan,</hi> (to which people theſe Types and Ceremonies were given) then in any other part of the world, nay the Jewes ſay, that ſome kinds of it were miraculous, and among no people but them, as Leproſie in walls, and gar<g ref="char:EOLhyphen"/>ments, &amp;c. And as many thinke moſt raging and common in Chriſts time, that ſo Chriſt ſo commonly curing this diſeaſe, the Jewes might learne that this was the <hi>Meſsiab, Mat.</hi> 8.3, 4, 16, 17, &amp; 11.3, 4, 5. <hi>Mark</hi> 1.41, 42. typed out in all their Leviticall ſha<g ref="char:EOLhyphen"/>dowes, that came into the world to cleanſe them from, and take away the Leproſie and filth of ſin. Secoudly, God ſends them not to the bodily Phyſitian, to cure their diſeaſe, but to the Prieſt, a type of Our High Prieſt Jeſus Chriſt. Thirdly, the materialls ap<g ref="char:EOLhyphen"/>pointed for the cleanſing of the Leper, have no intrinſicall ver<g ref="char:EOLhyphen"/>tue, or medicinable quality to cure the body, but (as we ſhall even now heare) typifie out Chriſt and his benefits, that takes away the ſin of the ſoule. Fourthly, the Apoſtle imimates this to be the true meaning, <hi>Heb.</hi> 9.13, 14, 19, 22. and <hi>Chap.</hi> 12.24. &amp; <hi>Chap.</hi> 10.1, 4, 14. when God would ſet out the baſeneſſe of wicked men, he cals them Wolves, Lions, Bears, Foxes, Spiders, Cocatriſes, Smoak, Dung, <hi>Iſa.</hi> 11 6, 7, 8. &amp; 59.5, 6 <hi>Cant.</hi> 2.15. Chaffe, <hi>Pſal.</hi> 1.4. 1 <hi>Kin.</hi> 14.10. When God ſets out the pretiouſneſſe of his people, he cals them, Love, Dove, Jewels, &amp;c. <hi>Cant.</hi> 2. <hi>Mat.</hi> 3, &amp;c. So when he would ſet cut the exceeding filth of ſin, hee ſhadowes it out by Leproſie, Uncle anneſſe, &amp;c.</p>
+            <p>Secondly, For the five materials appointed for the cleanſing; <hi>viz.</hi> two Birds, Scarlet, Cedar, and Hyſſop; ſome have thought the two Birds to have beene ſparrowes, and ſo reade the words; others (as far as I now remember, having now neither Books nor papers to conſult with) think they were no tame or houſe-birds, becauſe one of them muſt flie away into the field, ſo as in likeli<g ref="char:EOLhyphen"/>hood to returne no more, (as the ſcape-goat alſo) the more fitly to reſemble Chriſt who carries away our ſins, not return to deſtroy us: I conceive then, the two Birds did typiſie Jeſus Chriſt, two natures, the dying Bird ſet out his humanity, according to which, he died, ſhed his bloud, and lay in the grave: The live-bird, ſet out his
+<pb n="5" facs="tcp:46280:10"/>Divinity, by the power whereof he roſe againe, flew away to hea<g ref="char:EOLhyphen"/>ven and carried away our ſins; thus <hi>Peter</hi> expounds it, 1 <hi>Pet.</hi> 3.18. being put to death in the fieſh, but quickned by the Spirit; thus <hi>Paul,</hi> 2 <hi>Cor.</hi> 13.4. He was crucified through weakneſſe, yet he lives by the power of God, ſo <hi>Rom.</hi> 4.25. And becauſe no one Bird could both die and live againe, therefore here are two birds men<g ref="char:EOLhyphen"/>tioned (as two Goats, <hi>Lev.</hi> 16.7, 10. to ſhadow out, both Chriſts ſhedding of his bloud for the remiſſion of our ſins, <hi>Heb.</hi> 9.22. and his bearing away our griefes, and carrying our ſorrowes, <hi>Iſa.</hi> 53.4. <hi>Mat.</hi> 8.17. Now as theſe muſt be two little Birds both of a kind, ſo muſt they be both clean, <hi>ver.</hi> 4. So was Chriſt as God, and as man, every way holy and unſpotted. That Chriſt was God, ſee the teſtimony of Scripture, <hi>Phil.</hi> 2.6. 1 <hi>Ioha</hi> 3.7. the teſtimony of the Devill, <hi>Mark</hi> 1.24. Chriſts very enemies, <hi>Mat.</hi> 27.54. Chriſts very workes, raiſing dead, curing all diſeaſes, turning water into wine; multiplying loaves, all kindes of miracles; and (like the live-bird in my Text,) his raiſing himſelf from the dead, and ſly<g ref="char:EOLhyphen"/>ing away to heaven. That Chriſt was man alſo, witneſſe his Birth, Life, and (like the dying bird in my Text) his death and ſhedding his bloud. The other three materialls, <hi>viz.</hi> Cedar, Scar<g ref="char:EOLhyphen"/>let, and Hyſſop, (as I conceive) ſet out the ſeverall graces and vertues in this pretious Redeemer. The Cedar that rots not (yea the pitch that runs out (as naturaliſts affirme) keepes dead bodies from rotting) ſhewes Chriſts innocency, free from all corruption; The red Scarlet of a perfect dye, notes Chriſts fervent love to his Church. The ſavory Hyſſop ſets out Chriſts ſavory obedience, pleaſing to the Father. Now Chriſts innocency is proclaimed, not only by God, by Prophets, Apoſtles, his own actions; but e<g ref="char:EOLhyphen"/>ven by the Devill, by <hi>Pilete</hi> and his Wife, and <hi>Iudas,</hi> ſee <hi>Marke</hi> 1.24 <hi>Mat.</hi> 27.4, 19,—24, <hi>Mat.</hi> 3.17 <hi>Luke</hi> 2. &amp;c. Behold the uncor<g ref="char:EOLhyphen"/>rupted Cedar.</p>
+            <p>Chriſts fervent love to his Church appeares, in that for his peo<g ref="char:EOLhyphen"/>ples ſake, he being God became man (which is infinite more then for great <hi>Nebu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hadnezzar</hi> to become a beaſt) nay, not onely man, but poore man; nay, ſcorned and abuſed by the worſt and baſeſt of men, yea, by Devills who had power to tempe, yea, to carry his body (as I may ſay) from pou to pillar; yea, that hee ſhould doe all this and ſhed his bloud (like a Scarlet threed) for poore
+<pb facs="tcp:46280:11"/>worthleſſe creatures duſt and aſhes, yea, ſinfull duſt, yea ſtranger (a little courteſie to a ſtranger is much) <hi>Epheſ.</hi> 2.12. Yea, enemies, (now as <hi>Saul</hi> ſaid, a man would ſcarce ſpare his enemy; how few keep, how few dye for his enemie? yea, dead enemies, <hi>Epheſ.</hi> 2.1, 5. eſpecially conſidering that he knew how ill wee deſerved this, how little many would profit by it, how much contemne, how ill requite it; adde to all this how voluntary and free, (no way com<g ref="char:EOLhyphen"/>pelled) all this was, <hi>John</hi> 10.17, 18. So as though hee knew hee ſhould die at Jeruſalem, yet hee would goe thither; though hee knew and foretold that <hi>Judas</hi> would betray him, yet hee meetes him; when <hi>Peter</hi> adviſed him to ſave himſelfe, he rebukes <hi>Peter:</hi> and when they asked him if he was the Chriſt, he denyed not, but witneſted a good confeſſion; was there ever love like this love? who heares this, but will breake out and ſay; his mercy, his mer<g ref="char:EOLhyphen"/>cy endures for ever; behold his free ſcarlet love. Againe Chriſts ſavoury obedience hee expreſſed, in that hee obſerved the whole Law, fulfilled all righteouſneſſe, <hi>Mat.</hi> 3.15. Kept the Ceremoni<g ref="char:EOLhyphen"/>all Law, was circumciſed the eight day, and offered for his offer<g ref="char:EOLhyphen"/>ing according to the Ceremoniall Law. Hee kept the Judiciall Law, in being ſubject and obedient to their Magiſtrates Lawes, Kept the Morall Law every point of it, in both Tables, for the Ob<g ref="char:EOLhyphen"/>ject: with his whole man, heart, tongue, and life, for the Subject: and all his life, for continuance: yea, denyed himſelfe, and per<g ref="char:EOLhyphen"/>formed the moſt difficult points, Behold Chriſts ſavoury Obedi<g ref="char:EOLhyphen"/>ence! <hi>Pſal</hi> 51.7, 9.</p>
+            <p>The third part is the preparation of theſe Materials for, and ap<g ref="char:EOLhyphen"/>plication of theſe to the Leper, The dying bird, noting Chriſts humanity, muſt be killed over an earthen veſſell full of running water, ſo that the bloud of the ſlaine bird muſt fall into, and be mingled with the water in the veſſell: This water and bloud ty<g ref="char:EOLhyphen"/>pified that which Saint <hi>John</hi> expreſſeth to have beene fulfilled, when water and bloud came out of Chriſts ſide, <hi>John</hi> 19.34. No<g ref="char:EOLhyphen"/>ting our juſtification by his bloud, our ſanctification by the water, 1 <hi>John</hi> 5.6. It muſt be running water from a fountaine, not pond or puddle water that dries up in ſummer, but a fountaine of mer<g ref="char:EOLhyphen"/>cy in Chriſt that flows continually for the Churchesuſe, <hi>Zac.</hi> 13.1. <hi>Heb.</hi> 9.14. The earthen veſſels are the Miniſters of the Goſpell (ſo Saint <hi>Paul</hi> expounds it, 2 <hi>Cor.</hi> 4.7.) though poore men like your
+<pb facs="tcp:46280:11"/>ſelves, yet wee hold out to you moſt pretious treaſure, even the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>irs of Chriſt for the juſtification and Sanctification of his church: Its Gods way that Chriſt ſhould be revealed to us by theſe earthen veſſells, and not by Angels. God ſent not the An<g ref="char:EOLhyphen"/>gell to teach the Eunuch, but the Angell was ſent to the earthen <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſell, <hi>Philip,</hi> that he might hold out the water and bloud to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thiopian, <hi>Act.</hi> 8.26, 35. If a Devill ſhould come with a fire-brand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of hel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, it would not doe us ſo much good, as the teaching by earthen veſſels. <hi>Dives</hi> in his humane invention thought the for<g ref="char:EOLhyphen"/>mer way the better, <hi>Luke</hi> 16.27, 30. that if one come from Heaven they would repent, but God that appoints the end, and gives the bleſſing, muſt onely appoint the meanes, <hi>Luke</hi> 16.29, 31. which is not to ſpeak to us by himſelfe, <hi>Deut.</hi> 5.25.—28. nor Angell, nor Divell, but to hold out Chriſt with all his benefits to us, in, and by earthen veſſels: take heed how you deſpiſe on Miniſtery, our Propheſying, 1 <hi>Theſ.</hi> 5.19, 20. becauſe though we are poore Veſſels, yet we hold out Pretious treaſure; look not upon our out-ſide on<g ref="char:EOLhyphen"/>ly as they on Chriſt, Is not this the Carpenter? are not his kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed here with us, <hi>Marke</hi> 6.2, 3. for he that deſpiſeth our Miniſtery, de<g ref="char:EOLhyphen"/>ſpiſeth not man but the Ordinance of God, <hi>Theſ.</hi> 4.8. and 5.13. for in ſo doing, you contemn this pretions water, and bloud, and put away eternall life, <hi>Act.</hi> 13.46.</p>
+            <p>The living Bird muſt be dipt in the bloud of the dead Bird, ere the Leper be ſprinkled; noting to us, that hee that muſt ſave us from ſin, muſt not onely bee God, nor onely man, but both joyned together, God and Man, for our redemption, 1 <hi>Tim.</hi> 2.5. Man to ſuffer death (for God could not dye) God to conquer death, (for mere man could not.) Man; becauſe man had ſinned God; becauſe God was offended, &amp;c. yet as the corner-ſtone, hee might reconcile together in one both God and Man, <hi>Phil</hi> 2.6, 7, 8. <hi>Epheſ.</hi> 2.16.</p>
+            <p>Yet all this will not do the Leper any good except it be ſprink<g ref="char:EOLhyphen"/>led upon, applyed to him (ſo <hi>v.</hi> 7 the Prieſt muſt beſprinkle the Le<g ref="char:EOLhyphen"/>per ſeven times,) ſhadowing hereby, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th to Jew and Gentile, that Chriſts comming from Heaven, ſhedding his bloud, ſing againe, and flying away to Heaven will not clenſe any ſoule not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e any Leper (though in it ſelf a ſufficient Plaiſter) except we be ſprinkled with it, except it be applyed to us.</p>
+            <p>Fourthly, but when a poor leprous ſinner is once cleanſed con<g ref="char:EOLhyphen"/>verted,
+<pb facs="tcp:46280:12" rendition="simple:additions"/>called, juſtified, &amp;c. when he is thus beſprinkled with Chriſts merits, may hee now live as he liſt? no, ſee the fourth part of the Text, <hi>viz.</hi> the cleanſed Lepers converſation; he muſt ſhave off his experements, all his hair, of head, beard, &amp;c. waſh his fleſh and cloths, offer ſacrifice, &amp;c. <hi>v.</hi> 8, 9, 10. he muſt ſtill be pumping out corruption, fighting daily, 1 <hi>Tim.</hi> 1.19. mortifie the deeds of the fleſh, <hi>Rom.</hi> 8.13. be daily cleanſing himſelf from all pollution both, of fleſh and ſpirit, 2 <hi>Cor.</hi> 7.1. and ſhave off that ſuperſiuity of naugh<g ref="char:EOLhyphen"/>tineſſe, and waſh away that filthineſſe that ſtickes cloſe to the beſt, <hi>James</hi> 1.21. If any poor captive ſoul marry with the God of Iſrael, Jeſus Chriſt, there muſt be pairing of nails, and ſhaving of haire; as the captive Maid did, that married a man of Iſrael, <hi>Deut.</hi> 21.12. and be daily ſacrificing and ſowing to the ſpirit, <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll.</hi> 6.7.</p>
+            <p>Having now ſomewhat opened theſe four precious ſtreams, that water this garden of God, <hi>Gen.</hi> 2.10. let me, like a man that hath run up a great hill, and thereby himſelf out of breath, look down a little upon the Text, and draw from every part one obſervation, like ſo many buckets full of theſe cleer ſtreams, to water the lambs of Chriſt.</p>
+            <p>
+               <hi>Obſer.</hi> 1. And firſt from the pollution or defilements, obſerve; that ſinne is a moſt filthy loathſome evill: the ceremoniall type or ſhadow is gone, but the ſubſtance or thing ſignified therby (<hi>viz.</hi> the filthineſſe of ſinne) that ſtill concernes both Jew and Gentile; the Jewiſh ſhell is broke, but the kernall hath a laſting morality: yet as all the types of Chriſt came far ſhort of Chriſt the Antitype, ſo all theſe pollutions come far ſhort of the filth of ſinne, which they ſignified.</p>
+            <p>Thoſe ſinnes which men count but jeſts or toyes, how baſely doth the Scripture ſtyle them? <hi>i. e.</hi> Covetouſneſſe which men call good husbandry, the Scripture calls filthy lucre, <hi>Tit.</hi> 1.7. wanton talk which men call mirth and je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, the Scripture calls filthy communication, <hi>Coll.</hi> 3.8. filthineſſe and fooliſh talking, <hi>Epheſ.</hi> 5.4. yea the filthineſſe of the Daughter of Sion, <hi>Iſa</hi> 4.4. abomination, <hi>Lev.</hi> 18.22. pollutions of the world, 2 <hi>Pet.</hi> 2 22.</p>
+            <p>See what the Scripture compares it to; to the vomit of dogs, to wallowing in the mire, &amp;c. 2 <hi>Pet.</hi> 2.22. nay, ſinne is far worſe then all mire, and dirt; for 1 that can but defile the body, the cask, the ſhall; but ſinne defiles the ſpirituall, inviſible, and immortall pre<g ref="char:EOLhyphen"/>tious
+<pb n="4" facs="tcp:46280:12"/>ſoul which is a ſpirit. 2. All the dirt in the world cannot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake a man one jot more ugly or loathſome in Gods eyes. 3. It cannot ſhut a man out of heaven, or ſhut him in the everlaſting <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rboiles within the bars of Hell, <hi>Job.</hi> 17.16. but ſinne can doe all this: ſee how God eſteemes of it? ſurely as an abominable thing, <hi>Pſal.</hi> 14.1. hates it perfectly, <hi>Pſal.</hi> 5.5. and 45.7. <hi>Revel.</hi> 2.6. See what good men (ſo far as they are renewed) think of it. Surely its a very death to them, <hi>Rom.</hi> 7.24. <hi>who ſhall deliver me from the body of this death, Epheſ.</hi> 2.12. 1 <hi>Tim.</hi> 5.6. 1 <hi>John</hi> 3.14. they eſteeme of it as darkneſſe, <hi>Rom.</hi> 13.12. <hi>Eph.</hi> 5.11. 1 <hi>Theſ.</hi> 5.4. much worſe then that ninth plague of Egypt, <hi>Exod</hi> 10.21; 22. there through the want of Sun, Moon, and Star-light from above, and fire and candle-light from below, <hi>Wiſd.</hi> 17.5, 17. both naturall &amp; artificiall, and through the condenſating of the foggy Aire, it was ſo darke, that no man had any mind to riſe from his ſeat (not that the Aire was ſo thick they coald not riſe, <hi>Exod.</hi> 10.23. for then would it have hindred their breathing) for three dayes together; which cauſed Famine, and being terrified with their owne conſciences, <hi>Wiſd.</hi> 17.14, 15. and evill ſpirits vexing them that while, <hi>Pſal.</hi> 78. <hi>v.</hi> 49. it was indeed a very ſore plague; oh but ſinue is worſe, chaining the ſoule to the Divell, ſtarving and famiſhing it, and that not for three dayes, but for many yeeres, yea oft-times to all eternity, where not onely conſcience and evill ſpirits vexe, but rend and tear for ever.</p>
+            <p>Sinne is worſe then the moſt ſtinging croſſes, they are of Gods making and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ending, <hi>Amos</hi> 3.6. they are onely oppoſite to my par<g ref="char:EOLhyphen"/>ticular good, <hi>bonummei;</hi> but ſinne is oppoſite to that univerſall good <hi>bonum Dei;</hi> ſinne is worſe then the Divell, for it cauſed him to be ſo ill as he is; that which differenceth the loweſt Divell from the higheſt Angell is ſinne, take that away, and hee is a glorious Angell again; yet all the water at <hi>Noahs</hi> floud, and all the fire at the day of judgement cannot do it. Sinne is worſe then Hell, for Hell is of Gods making, as a priſon to the contemners, of his great mercy, and his dear Son; Sinne, not ſo.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. And no wonder, for 1. ſinne comes from a filthy Foun<g ref="char:EOLhyphen"/>tain, that ſtinking Sodome of mans deceitfull heart, <hi>Mat.</hi> 15. <hi>Jam.</hi> 15.1. In the Angels, and Adam (at the firſt) there was no ſinne, they were juſtified by inherent righteouſneſſe, but now, &amp;c.</p>
+            <pb n="10" facs="tcp:46280:13"/>
+            <p>
+               <hi>Reaſ.</hi> 2. It hath a filthy father and furtherer, the Divell, 1 <hi>John</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 8. <hi>John</hi> 8.44.</p>
+            <p>
+               <hi>Reaſ.</hi> 3. It leades to a filthy end, and company Divells in Hell.</p>
+            <p>
+               <hi>Reaſ.</hi> 4. It hath filthy effects, it defiled heavenly Angels, and holy Adam; of great Kings it made poor baſe ſlaves, much worſe then for the higheſt <hi>Nebuchadnezzar,</hi> to become a beaſt, it defile<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men and women, many by Creation, and (to look upon) moſt pretty, fine, ſweet, amiable, and comely men and women, yet of this filthineſſe of ſinne become moſt ugly and loathſome creatures, yea ſuch as the Scriptures calls vipers, <hi>Mat.</hi> 3.7. Scorpions, <hi>Ezek.</hi> 2.6. Spiders and Cocatries, <hi>Iſa</hi> 59.5. Wolves, Beares, Lyons, Leo<g ref="char:EOLhyphen"/>pards, <hi>Iſa</hi> 11. Thornes, Briars, Brambles, Thiſtles, <hi>Iſa</hi> 10.17, <hi>Ezek.</hi> 2.6. <hi>Judg.</hi> 9.14. <hi>Mat.</hi> 7.6. yea Divels, <hi>John</hi> 6.70. what a wofull thing would it be if any of you had a child, having a head like a Bear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, feet like a dog, &amp;c. oh its far better to be a Beaſt, then to bee like a Beaſt by living in beaſtly filthy ſinnes: when a Beaſt dyes it ends, but when a wicked man dyes, he begins his everlaſting miſery.</p>
+            <p>
+               <hi>Luther</hi> in his notes on the fourth Commandement, tells a re<g ref="char:EOLhyphen"/>markeable Story, <hi>viz.</hi> 
+               <q>that two great Cardinalls riding toge<g ref="char:EOLhyphen"/>ther, to the Counſell of <hi>Conſtance;</hi>
+               </q> in their Journey, they eſpye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shepheard in the fields, exceedingly mourning; one of them much pittying him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ides to him, askes him why he wept? the Shepheard <q>being much urged tells him, I looking upon this Toad, conſide<g ref="char:EOLhyphen"/>red that I had never plaiſed God as I ought, for making <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch an excellent creature as man, reaſonable and comely, and not ſuch a deformed Toad as this; ſeeing both were made of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> duſt:</q> how glad and thankfull was this poore ſhepheard, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God made him a man and not a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oade (the head and not the tay of the creation) and ſure ſo it is a very great mercy, wee doe no<g ref="char:EOLhyphen"/>bleſſe God enough for theſe common favours: when <hi>Pharoah</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt King then alive, that wee reade of) had been ſeven day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without water, and three dayes without light (the want of which were the firſt and ninth of Egypts great plagues, and we reade n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> expreſly that any other of the tenne plagues laſted but one day. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pharoah</hi> was then able to prize common mercies at a high ra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but yet it is much better for one to have beene a Toade (or any <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther baſe creature) then to bee a man with an eternall and reaſo<g ref="char:EOLhyphen"/>nable
+<pb facs="tcp:46280:13"/>ſoule, if he live and dye in his ſins, voyd of grace. Should <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man going up and downe the ſtreete, having frogs or ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts in his belly, it would be thought a wofull and lamentable <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: oh how much more to be full of unrighteouſneſſe and noy<g ref="char:EOLhyphen"/>ſomeraigning luſts, <hi>Rom.</hi> 1.29. &amp; 3.13,—19, it is fin alone that de<g ref="char:EOLhyphen"/>files man, and every part of man? <hi>Rom.</hi> 3.13,—19. <hi>Mat.</hi> 15.19, 20. defiles his chiefe part, his heart, <hi>Jer.</hi> 17.9. his words, <hi>Mat.</hi> 15.18. his actions, <hi>Pro.</hi> 15.8, 9. both ſacred, <hi>Pro.</hi> 21.27. <hi>Pſal.</hi> 109.7. <hi>Heb.</hi> 4. 1 <hi>Cor.</hi> 11.27, 29. his prayer, ſacrifice, hearing, <hi>Iſa.</hi> 1.16. and his ci<g ref="char:EOLhyphen"/>vill actions, <hi>Pro.</hi> 21.4. the very plowing of the wicked, &amp;c. yea, all, <hi>Tit.</hi> 1.15. as all that the Leper ſato on, ſpit on, touched, &amp;c. was de<g ref="char:EOLhyphen"/>filed, <hi>Lev.</hi> 16.16. <hi>Hag.</hi> 2.13. yea, he that touched a Leper, &amp;c. So ſin defiles the very land, and place where it raignes, as Paradiſe, So<g ref="char:EOLhyphen"/>dome, &amp;c. <hi>Pſol.</hi> 107.34.</p>
+            <p>But I forget too much your important affaires, and preſſing ne<g ref="char:EOLhyphen"/>ceſſities this day, give me leave to coaſt upon an Uſe or two, and I will poſt to the next.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> This diſcovers themiſerable eſtate of every one of us by nature, King and Subject, Lord and Lady, Magiſtrate, Miniſter, &amp;c. we are all born Lepers, like the poore helpleſſe infant, polluted in its bloud, <hi>Ezek.</hi> 16.6. there is no better amongſt us. Men talke much (but its only a talke) of their good nature, there was never any ſuch thing ſince the fall of <hi>Adam;</hi> and not only an arme or foot defiled, or here or there a ſpot, but from the head to the foot every part is full of this Leproſie, the whole man is naturally deſiled: by the fall we loſt Gods image, made backward to all good, prone to all ill, liable to condemnation, <hi>Rom.</hi> 5.12, 16, 18.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> This acquaints us nextly, of that great need that every one hath to be converted, to help us againſt the leproſie of our firſt birth; grace is obtained by, and heaven entailed to, (not our firſt, but) ſecond birth. This regenerating work is, firſt the greateſt, ſecond<g ref="char:EOLhyphen"/>ly, needfulleſt, thirdly, happieſt change in the world. Firſt, grea<g ref="char:EOLhyphen"/>teſt, to turne water into wine, was a great worke, <hi>John</hi> 2. (yet in time, water would have been wine, by the help of the vine, in the ordinary courſe of Providence) had wee a childe that wanted a hand, a leg, an eye, or had ſome limme extremely miſhapen and disfigured, you would ſay to one that ſhould help you, you were bound to be his ſervant for over, and proclaim it for a great work;
+<pb facs="tcp:46280:14" rendition="simple:additions"/>Oh but to raiſe <hi>Lazarus</hi> from his foure dayes death, was yet much greater; but yet to turne a Lion into a Kid, a Wolfe into a Lamb, <hi>Iſa.</hi> 11. is the greateſt worke of all. When <hi>Jacob</hi> gave to <hi>Benjamin</hi> his coat of Armes, <hi>Gen.</hi> 49.27. he tells him that he ſhould ravine as a Wolfe, &amp;c. now if ever there was Wolfe of the tribe of <hi>Benjamin,</hi> it was <hi>Saul,</hi> when others did miſchiefe againſt the Saints, he con<g ref="char:EOLhyphen"/>ſented to it, <hi>Act.</hi> 7.58. &amp; 8.1. Nay, himſelfe was bloudy and cruell minded againſt any that called upon Jeſus Chriſt, or went that way, <hi>Act.</hi> 26.11. Yea, thirdly, he ſought for commiſſion and power to execute his miſchiefe like a Catch-poll, <hi>Act.</hi> 9.1. Fourthly, hee tooke much paines, rid a journey, (and got others with him) from Jeruſalem in the tribe of <hi>Benjamin</hi> to <hi>Damaſcus</hi> in <hi>Syria. Act.</hi> 9.2. &amp; 22.5. Fifthly, when hee caught them, hee beat them cruelly, <hi>Act.</hi> 26.10. &amp; 22.19. Sixthly, many he killed, <hi>Act.</hi> 22.4. and many he dragged and haled to priſon, <hi>Act.</hi> 26.10. Seventhly, ſome he pu<g ref="char:EOLhyphen"/>niſhed, and ſome he baniſhed, made them flye to ſtrange Coun<g ref="char:EOLhyphen"/>tries, <hi>Act.</hi> 8.4. &amp; 26.11. ſome way or other made havock of them, <hi>Act.</hi> 8 3. And eightly, which was worſt of all, not content to plun<g ref="char:EOLhyphen"/>der their eſtates, miſchieve their bodies, but (with that monſter of <hi>Millai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi>) endeavoured to undoe their ſoules, by making them blaſpheme the Name of Jeſus Chriſt, <hi>Act.</hi> 26.11. every way as much as in him lay, aſſayed to overthrow the Church of Chriſt, <hi>Act.</hi> 8.3. <hi>Gal.</hi> 1.13. And yet behold this raging and ravening Wolfe of <hi>Ben<g ref="char:EOLhyphen"/>jamin,</hi> become a Lambe, meeke and humble, <hi>Act.</hi> 9.4 5, 6. changed, in name; ſecondly, in nature; thirdly, condition or eſtate; fourthly, in practiſe, oh what a great change! Chriſt puts this receiving of the Goſpell among his great miracles, <hi>Mat.</hi> 11.5.</p>
+            <p>Secondly, a needfull change; we heare people cry daily in the ſtreets, Alas, great things lie at ſtake, <hi>Ireland</hi> is gaſping, <hi>England</hi> is on the knee, and other Churches and Kingdomes much endange<g ref="char:EOLhyphen"/>red; Oh but till this change be wrought on thy ſoule, there lyes more at ſtake every night thou goeſt to bed, or morning thou up<g ref="char:EOLhyphen"/>riſeſt, then 100. <hi>Englands, Irelands,</hi> &amp;c. are worth, even that im<g ref="char:EOLhyphen"/>mortall precious ſoule of thine. I heare men ſay ſometimes, and rejoyce, oh ſuch a Towne, or ſuch a Caſtle was taken with the loſſe onely of ten, or twenty, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve and twenty men: Alas, (then thinke I) theſe ten or twenty men, had ten or twenty ſoules, and as ſoone as ever the poore veſſell is crackt, the poore ſhell, broke,
+<pb n="13" facs="tcp:46280:14"/>the ſoule flies out to eternity; and if leprous ſoules not changed, not converted, undone eternally: our heavenly Father knowes that we need meat, drinke, &amp;c. but much more need wee to have our leprous ſoules cleanſed, becauſe out eternall weale or woe de<g ref="char:EOLhyphen"/>pends theron.</p>
+            <p>Thirdly, happieſt change; for now that day, is ſalvation come to thy houſe. Firſt, thou mayeſt have comfort in every condition here, health, ſickneſſe, proſperity, advernty, &amp;c. having intereſt in Chriſts benefits, priviledges, promiſes, interceſſion, &amp;c. Secondly, freed from damnation, <hi>Rom.</hi> 8.1. and right to eternall life here<g ref="char:EOLhyphen"/>after, <hi>John</hi> 3.36.</p>
+            <p>Nor will it ſerve to have a new tongue onely, as <hi>Jehu</hi> to talke well: or a new hand, as <hi>Herod,</hi> to reforme well in many things; or a new outſide, as five fooliſh Virgins, to carry well in many things (was there ever any creature borne, having only a tongue, onely a hand, or outſide; ſuch would be a wofull birth) but ſee<g ref="char:EOLhyphen"/>ing we are leprous from top to toe, we muſt become new creatures, ſanctified throughout, 2 <hi>Cor.</hi> 5.17. 1 <hi>Theſ.</hi> 5.23. 2 <hi>Cor.</hi> 7.1. but I know to whom I ſpeake, and therefore haſten.</p>
+            <p>
+               <hi>Vſe</hi> 3. Informes us, why it is ſo neceſſary to avoid euill compa<g ref="char:EOLhyphen"/>ny, why the Scripture ſo often beats on it in both the Teſtaments, <hi>Prov.</hi> 4.14, 15, &amp;c. <hi>Pſal.</hi> 6.8. &amp; 119.115. 2 <hi>Tim.</hi> 3.5. <hi>Epheſ.</hi> 5.11. &amp;c. Alas, becauſe wicked men are Lepers, infectious, have the plague ſore upon them (Lord have mercy upon us) 1 <hi>King.</hi> 8.38. 2 <hi>Chron.</hi> 6.29. and by reaſon of this leproſie raigning in them, they are loathſome to God, <hi>Zach.</hi> 11.8. loathſome to good men, <hi>Pſal.</hi> 15.4. loathſome to all men, <hi>Lam.</hi> 1.18. yea, to all creatures, <hi>Rom.</hi> 8.21. and if ever God open their eyes will be loathſome to themſelves, <hi>Job</hi> 42.6. <hi>Ezek.</hi> 36.31. If the plague rage in any Towne, you ſay to your children, families, &amp;c. Oh looke to your ſelves, for the Lords ſake come not there, take ſuch and ſuch antidotes; oh ſo ſaith <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> as ſoone as ever he had won thoſe three thouſand, he preſent<g ref="char:EOLhyphen"/>ly preſcribes to thoſe new converts, <hi>Act.</hi> 2.40. ſave your ſelves from this untoward generation: Lepers were ſhut out of the City, camp, and congregation, leſt others ſhould be infected by them, and were to give warning unto others, <hi>Lev.</hi> 13.46. 2 <hi>Chron.</hi> 26.11. 1 <hi>King.</hi> 15.6. &amp; 7.3. <hi>Numb.</hi> 12. <hi>Matth.</hi> 8.2, &amp;c. to cry uncleane, un<g ref="char:EOLhyphen"/>cleane, <hi>Lev.</hi> 13.45.</p>
+            <pb n="14" facs="tcp:46280:15"/>
+            <p>Uſe 4. It next ſhewes us, that when Gods Miniſters preach Gods judgments, and threatnings, ſpeake plain and home; its not (as people conceive) any ill will or malice they bear to them, <hi>Rev.</hi> 11.10. nor any loſſe they wiſh them, alas they wiſh no more loſſe then to part with their Leprofie, their plague ſoar; do you account par<g ref="char:EOLhyphen"/>ting with a Diſeaſe, a wound, cold water out of your ſhooes, a loſſe? and do you hate us, 1 <hi>King,</hi> 22.8. and account us your Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for this, <hi>Gall.</hi> 4.16.</p>
+            <p>Uſe 5. Let every Evangelicall <hi>Aaron</hi> then know what is one great part of our Office, even to ſtand betwixt the living and the dead, to diſtinguiſh betwixt the pretious and the vile: one Office of the Prieſt was, to diſcover the Leproſie, and by marks and ſignes (ſuch as God laid down to him) to ſhew who were clean, and who were unclean: there is as much difference 'twixt wicked and god<g ref="char:EOLhyphen"/>ly, as twixt blind and ſeeing, Leper and ſound, dead and living, but ſeeing ſelf-conceit in the underſtanding, ſelf-will in the will, ſelf-love in the affections, like Noahs three Sons have ſo planted and overſpread the world, and the heart of man is ſo deceitfull, <hi>Jer.</hi> 17.9. and many think that they be in the middleſt of Samaria when they be in Dothan, 2 <hi>King.</hi> 6, pure onely in their owne eyes, <hi>Prov.</hi> 30.12. it concernes the watch-men to look carefully into the word, what markes God hath laid down there, that they may pro<g ref="char:EOLhyphen"/>nounce of the Leprofie accordingly, <hi>Lev.</hi> 13. look to that ſure word of propheſie, that wee may in part doe that now, which our Maſter Chriſt when he comes with his fanne in his hand, <hi>Luke</hi> 3. will doe fully another day: and let the Church take care that ſuch as are ſcandalous ſinners may be removed for their Leproſie, out of the Tabernacles and Congregation, <hi>Jer.</hi> 15.19. eſpecially ſuch as glo<g ref="char:EOLhyphen"/>ry in their ſinne, alas they glory in their Leproſie, in their Scabs, and ſcurvineſſe, their Oaths, Drunkenneſſe, &amp;c.</p>
+            <p>Uſe 6. Laſtly, let, oh let me (before I deſcend this Mount) pre<g ref="char:EOLhyphen"/>vaile with ſome poor (hitherto beſpotted) ſoul, to bee deſirous, and uſe Gods meanes to bee rid and cleanſed from his leproſie: (one would think the requeſt reaſonable) but how have thoſe Circeas cups befooled many?</p>
+            <p>
+               <hi>Queſt.</hi> What ſhould I doe?</p>
+            <p>
+               <hi>Anſw.</hi> Firſt, as the Leper did, hee felt the pain and loath ſome<g ref="char:EOLhyphen"/>neſſe of his diſeaſe, was very ſenſible of it.</p>
+            <pb n="15" facs="tcp:46280:15" rendition="simple:additions"/>
+            <p>Secondly, he did highly prize thoſe that were ſound and clean.</p>
+            <p>Thirdly, he freely confeſſed his pollution, <hi>Lev.</hi> 13.45.</p>
+            <p>Fourthly, he rent his garments, and covered his lip, (ſignes of his forrow.)</p>
+            <p>Fifthly he cryed out for help, <hi>Mat.</hi> 8.2. <hi>Luke</hi> 5.12.</p>
+            <p>Sixthly, do as <hi>Noamau</hi> did, 1. he hearkned to good and godly adviſe, though from a poore ſervant captive maid, 2 <hi>King</hi> 5.1.2. Was at pains, took a long journey. 3. Was content to be at any coſt, 2 <hi>King.</hi> 5.23. 4. Content to uſe means preſcribed to waſh in the River. <hi>v.</hi> 14. go thou and do likewiſe, waſh in the Ocean of Gods mercy, in the Fountain of Chriſts merits in the tears of true Repentance; but my haſt is legible to you, ſpare me a little pati<g ref="char:EOLhyphen"/>ence for the ſecond point, of which never Angell can ſay enough: and that is from the means or the five materials appointed for the Lepers cleanſing, being the ſecond part, obſerve that.</p>
+            <p>
+               <hi>Obſer.</hi> 2. The only way to cleanſe a ſinner from the wofull Le<g ref="char:EOLhyphen"/>proſie of Sinne, is the merits and ſatisfaction of Chriſt, God and Man; That the two birds, the Cedar, Scarlet, and Flyſſop, did typifie out Chriſts two natures in one perſon, and his merits, we have formerly cleared, and your buſineſſe and my glaſſe forbids me, or to repeat, or enlarge: as there are three perſons in one na<g ref="char:EOLhyphen"/>ture, <hi>viz.</hi> the divine, ſo there are two natures in one perſon, <hi>viz.</hi> the ſecond perſon in the Trinity, like the living and the dying birds, and the Scarlet, Cedar, and Hyſſop, of his fervent love, perfect ho<g ref="char:EOLhyphen"/>lineſſe, and ſavory obedience, are fully expreſſed in his life, death, and interceſſion; whereby Chriſt ſatisfied Gods juſtice, for the ill we had deſerved; fulfilled the whole Law, to obtain the good we had loſt; intercedes in heaven ſtill, to apply all this unto us, to pro<g ref="char:EOLhyphen"/>vide manſions for us, &amp;c.</p>
+            <p>This was typiſied by all thoſe holy perſons, holy places, holy times, holy things in old Teſtament. <hi>Iſaac.</hi> was the promiſed Seed in whom all the Nations of the world ſhould be bleſſed, herein typifying Chriſt; ſo did <hi>Joſeph,</hi> who was ſent before to ſave his brethren <hi>Joſhua</hi> brought Iſraell to the promiſed Land, ſo Chriſt, in the firſt <hi>Adam</hi> mankind fell, and not in their individuall, ſo in the ſecond <hi>Adam,</hi> do they riſe again, <hi>Rom.</hi> 5. Holy places, no Sacri<g ref="char:EOLhyphen"/>fice accepted, but at Temple or Tabemacle, nor any duty but in
+<pb n="16" facs="tcp:46280:16"/>Chriſt. Again, in the ſeaventh yeere of releaſe, and yeer of <hi>Jubllee,</hi> were ſervants freed, debts releaſed, lands reſtored; ſo ours only in &amp; by Chriſt. Holy Ordinances; he is the true paſcall Lambe, the on<g ref="char:EOLhyphen"/>ly propritiatory ſacrifice, the onely <hi>Jacobs</hi> ſtaffe to leane on, and <hi>Jacobs</hi> ladder to aſcend to heaven by, the true Brazen Serpent, <hi>John</hi> 3.14, &amp;c.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. And no wonder, none elſe could, none elſe would, who or what elſe could ſatisfie the juſtice, or pacifie the wrath of an in<g ref="char:EOLhyphen"/>finite God:</p>
+            <p>
+               <hi>Reaſ.</hi> 2. What Corner-ſtone could elſe reconcile and joyn to<g ref="char:EOLhyphen"/>gether God and Man?</p>
+            <p>
+               <hi>Reaſ.</hi> 3. What hyſſop or niter elſe could waſh away the ſpots of the ſoul, and ſatisfie all the gaſpes and chinkes of mans all-de<g ref="char:EOLhyphen"/>ſiring heart? Or if, who would have been at that coſt and pains to do it, but Chriſt alone; but the thing is ſo cleere, and the time ſo ſhort, I need not, I may not here inlarge; take God upon his word for it, <hi>Act,</hi> 4.12. <hi>Mat.</hi> 1.21. <hi>Act.</hi> 10.43 <hi>Iſa</hi> 53.4, 5. &amp;c.</p>
+            <p>But what if? what ſhall's make of all this, and that but briefly, in a word or two.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Oh bloody Antichriſt! that to warme his own Kitchin, burne mens ſoules, by ſelling ſuppoſed merits of faigned Saints, pickes at once both mens purſes, and conſciences; and by teach<g ref="char:EOLhyphen"/>ing men to reſt on their own merits, deprives them of Chriſts; tel<g ref="char:EOLhyphen"/>ling us, we can as truly and properly merit heaven as hell. So <hi>Mal<g ref="char:EOLhyphen"/>donat;</hi> that we can condignly, not onely by reaſon of Gods Co<g ref="char:EOLhyphen"/>venant, but by and of the work it ſelf merit eternall life, ſo <hi>Bellar<g ref="char:EOLhyphen"/>mine.</hi> Indeed ſelling of ſoules is one great part of his trade, <hi>Rev.</hi> 18.13. and no wonder if he ſell his own to boot: <hi>Cornelius de lapide,</hi> a late learned Jeſuit and great Commentator, in his Commentary on the Numbers, ſaith; That his holy Father the Pope, <hi>Pius Quintus,</hi> was wont to ſay in his hearing, <hi>When firſt I entred in to holy Orders, I conceived ſome poſſibility of my ſoules ſalvation; but being once a Cardinall I did much doubt it; and now being a Pope I utterly deſpaire;</hi> theſe are the words of a Jeſuit, and he ſaith, that the next follow<g ref="char:EOLhyphen"/>ing Pope did often ſay as much of himſelfe; and no wonder. Wee often read in Scripture of three Superſtitious Altars. 1. At <hi>Damaſcus</hi> where they worſhipped falſe gods, 2 <hi>King.</hi> 10.10. 2. At <hi>Bethell,</hi> where
+<pb n="17" facs="tcp:46280:16"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey worſhipped the true God in a wrong manner, 2 <hi>King.</hi> 23.15. the 3. at <hi>Athens,</hi> where worſhipped neither, <hi>Act.</hi> 17.23. or both to<g ref="char:EOLhyphen"/>gether, as an ancient King of the Eaſt-Saxons in this Nation, af<g ref="char:EOLhyphen"/>ter he was baprized, had yet in his Church one Altar for Chriſt, another for the Divell; ſo doe theſe ſhavelings joyn together for Chriſts merits, Saints merits, our merits altogether, and ſo rob Chriſt of his honour and right, dearly bought, as that Tyrant, <hi>moriua quinetiam,</hi> &amp;c.</p>
+            <p>See what the Apoſtle ſaith, <hi>Rom.</hi> 11.6. <hi>if it be af grace, it is no more of workes, elſe were grace no more grace.</hi> And we all cry with Martyr <hi>Lambert,</hi> none but Chriſt, none but Chriſt.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Did Chriſt being God take our humane nature (both Birds were joyned together.) Let us men labour to partake of the Divine Nature, 2 <hi>Pet.</hi> 1.4. divine graces, divine communicable pro<g ref="char:EOLhyphen"/>perties, priviledges, &amp;c.</p>
+            <p>
+               <hi>Vſe</hi> 3. Did Chriſt deny himſelf, leave father and mother, and heaven, and glory for us: let us poor creatures (when God calls) leave father, mother (as St. <hi>Hierome</hi> ſomewhere) riches and plea<g ref="char:EOLhyphen"/>ſures, to ſerve and follow him.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. Did Chriſt ſhed his blood to free us from ſinne; let us ra<g ref="char:EOLhyphen"/>ther ſuffer our blood to be ſhed, then wilfully provoke him by wal<g ref="char:EOLhyphen"/>lowing in our ſinnes; ſay not as that great (but wicked) noble man, being asked whether hee liked better the pleaſures of the wicked, or the piety of the godly, ſaid <hi>cum illis mallem vivere cum iſtis mori;</hi> I would rather live with the former, rather dye with the latter.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 5. Bleſſe God, yea let all within us bleſſe God, that hath provided ſo precious and coſtly a remedy, to cleanſe us from our Leproſie: alas, what would all the riches and glory in the world do us good while we were all full of Leproſie? 2 <hi>Kings</hi> 5.1. what would <hi>Vzziah, Naaman, Miriam,</hi> have given to bee cured of bodily Leproſie? how much more ſhould wee bee thankfull for curing Soules Leproſie: eſpecially,</p>
+            <p>Firſt, if you conſider, 1. the greatneſſe of the gift, God ſent his Son, his only Son, his dearly beloved Son. <hi>Cyprian</hi> tells a ſtory of one having three Sonnes, one muſt needs be baniſhed: the eldeſt was his firſt born and Heire, he could not ſpare him; the youngeſt
+<pb n="18" facs="tcp:46280:17"/>was the mothers darling, young and tender; not could hee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him; well then, the middlemoſt muſt goe; but that was the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expreſſe image and picture of the father, and therefore her world rather dye then ſo part with any. But God ſent his Son into a ſin<g ref="char:EOLhyphen"/>full naughty world, though he was the very Image of his Father, theſe two clean Birds, to cleanſe us: the true mother (though none of the beſt) was loath to part with her child to be divided, 1 <hi>King.</hi> 3.26. but God for our ſakes parted with his Son to be crucified.</p>
+            <p>Secondly, the freeneſſe of the gift; by us neither deſired, nor deſerved, <hi>Eph.</hi> 1.5. <hi>Rom.</hi> 5.8, 10. <hi>He loued us, becauſe he loved us,</hi> Deut. 7.7, 8. <hi>none other eye pittyed us,</hi> Ezek. 16.5.</p>
+            <p>Thirdly, the great coſt it was to Chriſt, the great good to us; in Chriſt, there was great vailing, of his glory, that the infinits God ſhould become a poor Carpenters Son, <hi>verbune infans, Phil.</hi> 2. 6, 7. 2. Vailing of his holineſſe, that he ſhould be called a Wine<g ref="char:EOLhyphen"/>bibber, Divell, &amp;c. and be in the ſimilitude of ſinfull fleſh, 1 <hi>Pet.</hi> 1.19. 3. Vailing of his happineſſe, hee deſerved the firſt moment of his incarnation to have been in glory; but behold, from whence he came, from his Father, Heaven, Glory. 2. Whither hee came among wicked men (or rather feinds.) 3. How uſed of all per<g ref="char:EOLhyphen"/>ſons, Jewes and Gentiles: nay, becauſe the Jewes by their Law could not give above forty ſtripes, therefore did they deliver him to the Gentiles, who laſhed him ſo long, that it was more like plowing then whipping; <hi>The Plowers plowed upon my backe,</hi> &amp;c. <hi>Pſal.</hi> 129.3. againe, in every part, from head to feet, in all his time from the cradle to the croſſe, &amp;c.</p>
+            <p>Again, conſider what good this is to us; 1. hereby our nature is dignified, being in Chriſts perſon ſo highly advanced. All the Jew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rejoyced, becauſe <hi>Eſter</hi> one of their lineage was advanced; as a ſilver Ring, by having a precious pearle in it; as a man may take poſſeſſion of 1000 1. land a yeer, by one clod of the ſame earth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo hath Chriſt taken poſſeſſion of heaven for us in our nature; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when King. <hi>James</hi> was made free of the Company of <hi>Cloth work<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> Prince <hi>Henry</hi> of the <hi>Marchant Taylors,</hi> they dignified the Compa<g ref="char:EOLhyphen"/>nies. So here, 2. Sanctifies our nature, as a cleere ſtreame running through a filthy puddle.</p>
+            <p>And ſeeing I have begun to ſpeak, lend me ſo much liberty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:46280:17"/>patience (Right Honourable, and beloved) while I apply this de<g ref="char:EOLhyphen"/>ſtrine in a word or two to your ſelves.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 6. Let this hearten and encourage all ſouldiers, that ſtand up for the Truth of Religion, the Law of the Land, the true good of his Sacred Majeſty and Kingdomes, the flouriſhing of Chriſts Church, to ſee what a Generall and Captain they fight under; one that can from their ſinnes cleanſe them from pollution of ſpi<g ref="char:EOLhyphen"/>rit proſper them now; and if a bullet or ſword come, enſhrine their ſoules in Chriſts armes, give them full pay, knight and crown them in heaven: every ſouldier hath a care when hee goes to battell to take his muſket, powder, bullet, his armes, &amp;c. with him; by no means will he leave theſe behind; be ſure you take this Generall Jeſus Chriſt with you, <hi>and Truth and Righteouſneſſe to be your Captains,</hi> 2 <hi>Tim.</hi> 2.3. This was <hi>Joſhua's</hi> main care, <hi>Joſh.</hi> 5.13. 1. The calling of a ſouldier is very ancient, very honourable; what was it that the four great Monarchies of the world moſt gloried in, eſpecially the Grecians and Romanes, but in their valiant ſoul<g ref="char:EOLhyphen"/>diers; whence have moſt of our Titles of honour riſen, but from Military employments, as Emperours, Dukes, Earles, Knights, E<g ref="char:EOLhyphen"/>ſquires, &amp;c. 2. It is alſo a lawful calling in it ſelf, if rightly manag<g ref="char:EOLhyphen"/>ed, its an Art that God teacheth, <hi>Pſal.</hi> 18.34. and 144.1. who never taught any unlawfull one, that God commanded, <hi>Numb.</hi> 31.2. <hi>commended;</hi> &amp;c. <hi>Heb.</hi> 11.33, 34. yea ſometime war with men of the ſame Kingdome, and that profeſſe the ſame Religion may be law<g ref="char:EOLhyphen"/>full, thus twixt <hi>Iſraelites</hi> and <hi>Benjunites,</hi> by Gods own advice, <hi>Ezek.</hi> 5.16, 17. &amp; 6.11. <hi>Judg.</hi> 20.28. and ſo 2 <hi>Sam.</hi> 2.13. and 18.17. and though it be a ſore evill, and (as I have<note n="‖" place="margin">Grand Sa<g ref="char:EOLhyphen"/>crifice.</note> elſewhere more larg<g ref="char:EOLhyphen"/>ly proved) eſpecially <hi>civill warres,</hi> yet ſometimes a<note n="*" place="margin">Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bere debet ve<g ref="char:EOLhyphen"/>luntas, bell<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neceſſitas Aug.</note> neceſſary e<g ref="char:EOLhyphen"/>vill: onely remember wherein thy ſafety lyes, in Chriſt alone. Let men be for number, for ſtrength, 2 <hi>Chron.</hi> 32.7, 8. never ſo mighty, yet if God be againſt them, hee can give a Commiſſion to Angels, or Statres above, <hi>Judg.</hi> 5. to waters, or earth below, to wind and weather, to Frogs. Lice, Flyes, &amp;c. and all the arme of fleſh cannot withſtand them, <hi>Exod.</hi> 8.9, 10. witneſſe great <hi>Pharoah, Herod, Jeſa<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> King of <hi>Poland,</hi> (whoſe ordinary oath or curſe was,<note place="margin">
+                  <hi>Anno</hi> 134<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Rats <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> all his Kingdom could not ſave him from being devou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aes:)<note place="margin">Anno <hi>940.</hi>
+               </note> ſo <hi>Hatto</hi> Arch-biſhop of <hi>Mentz</hi> by Mice. <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſillus
+<pb facs="tcp:46280:18"/>Elkerka</hi> with Toads, &amp;c. or God can put a pannick feare into men, <hi>Joſh.</hi> 2.11. or ſcare them with a conceit, a <hi>King.</hi> 7.6. <hi>ruine them by their own fancie,</hi> 2 King. 3. 22, 23, 24. <hi>ſet one of them againſt another,</hi> as 2 <hi>Chron.</hi> 20.23. <hi>Jndg.</hi> 7.22.</p>
+            <p>The Land of Caanan (as <hi>Coſmographers</hi> think) was not by the fourth part ſo big as <hi>England;</hi> they had but twelve Tribes; and we in <hi>England</hi> and <hi>Wales</hi> have fifty two Shires: and one with a<g ref="char:EOLhyphen"/>nother its thought our ſhires were as big as their Tribes; yet in two of theſe Tribes (as they were uſually reckoned) there were in <hi>Jeboſhaphats</hi> dayes, almoſt 1200000. fighting men, 2 <hi>Chron.</hi> 17.14.—19. enough one would think to over-runne a whole world, and yet <hi>Jehoſhaphat</hi> cryes, 2 <hi>Chron.</hi> 20.12. <hi>We have no ſtrength, neither know we what to doe, onely our eyes are upon thee.</hi> But if God goe with them, 2 <hi>Chron.</hi> 32.8. then 185000. men are leſſe then ſo many Graſhoppers, three hnndred men with lamps and pitchers, (God being their Generall) will deſtroy innumerable enemies, <hi>Judges</hi> 7.12, 16. And ſeeing there are two ſorts of Souldiers, ſpirituall and temporall, let me ſay a word to both.</p>
+            <p>Firſt, all of us are or ſhould bee ſpirituall Souldiers; Clergie<g ref="char:EOLhyphen"/>men (as ſome call us) old aged men, women, &amp;c. are uſually freed from wars: ſome are poor, can contribute no money, (the ſinews of War) yet all, even <hi>Paul</hi> himſelf, yea when aged, yea women, &amp;c. muſt be ſpirituall ſouldiers of Chriſt, 1 <hi>Tim.</hi> 6.12. 2 <hi>Tim.</hi> 2.3, 4. and 4.7. fight under Chriſt againſt Devill, fleſh and world, with thoſe ſpirituall weapons, <hi>Epheſ.</hi> 6. Among others, let me intreat you,
+<list>
+                  <item>1. To uſe <hi>Jacobs</hi> way, of prayers and tears, Hoſ. 12.4. Its ſaid of <hi>Luther</hi> that he prayed five hours a day, <hi>Eaſque ſtudio aptiſsimos,</hi> that the Boards where he uſed to pray, were rotten with his tears; hee ſaid that hee kept out Pope, Spaine, and the Devill by prayer. Mr. <hi>Bolton</hi> (that Seraphick Divine) uſed to pray fixe times every day, twice with himſelf, twice with his Wife, twice with his Fa<g ref="char:EOLhyphen"/>mily. That truly honourable and divinely noble Lord <hi>Harring<g ref="char:EOLhyphen"/>ton,</hi> prayed conſtantly twice a day in ſecret, twice with his ſer<g ref="char:EOLhyphen"/>vants in his Chamber, and joyned at appointed times with the Family in prayer. The wrath of the greateſt Kings and rage of the fierceſt Lyons could not keep <hi>Daniel</hi> from prayer thrice a day,
+<pb n="17" facs="tcp:46280:18"/>
+                     <hi>Dan.</hi> 6. So <hi>David, Pſal.</hi> 55.17. and if <hi>David</hi> forgot not <hi>Jeruſalem</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his mirth, ſurely much leſſe in his prayers. <hi>Nehemiah</hi> and <hi>Daniel</hi> (two of the greateſt Courtiers to two of the higheſt Kings then under heaven) when they wanted no outward favour for them<g ref="char:EOLhyphen"/>ſelves, yet how did they mourn and weep for the Churches miſe<g ref="char:EOLhyphen"/>ries, <hi>Nebem.</hi> 1.4. <hi>Dan.</hi> 9.3.</item>
+                  <item>2. Uſe <hi>Eſthers</hi> way, prayer and faſting, <hi>Eſth.</hi> 4.16. ſome Devils are not caſt out but that way: the Iſraelites miſcarried twice and loſt 40000 men, till they went this way, <hi>Judges</hi> 20.</item>
+                  <item>3. Uſe <hi>Davids</hi> way; enquire of God, and ſeek out in the Land, and thy heart, what is the main ſinne that God is angry fore <hi>Sam</hi> 21.1. <hi>Lam.</hi> 3.40. <hi>Jer.</hi> 8.6.</item>
+                  <item>4. Uſe <hi>Ninevehs</hi> way; ſearching, praying, faſting and reforming, <hi>Jonah</hi> 3.8. Reformation is the firſt, ſecond, and third part of a Chriſtian: let <hi>Joſhua</hi> do, all elſe that he can, till Reformation, no peace, no ſafety, and theſe wayes of ſouldiers are, 1. unque<g ref="char:EOLhyphen"/>ſtioned wayes, though ſome ſcruples and diſputes about other warres, this is unqueſtionable. 2. univerſall, old, young, rich, poore,<note place="margin">
+                        <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſh.</hi> 7, 10-13.</note> may all uſe theſe wayes 3. ſafe. 4. cheape.</item>
+               </list>
+            </p>
+            <p>Secondly; to ſouldiers temporall; and becauſe you would not have me long, ſpare me a word or two. 1. I beſeech you ſeeke not your own ends, gains; &amp;c. adde not more length to our miſeries, to adde more weight to your owne purſes. Let your ends be, the ad<g ref="char:EOLhyphen"/>vancement and eſtabliſhing of the Truth, and purity of Religion, againſt all Idolatry and Inuovations, the maintenance of the good Lawes of the Land (<hi>which are the power that none ought to reſiſt, Rom.</hi> 13.1, 2.) His ſacred Maieſties honour and true good, the peace and recovery of diſtreſſed <hi>Ireland,</hi> and diſtracted <hi>England;</hi> the ſubjects juſt Liberties, &amp;c. according to Gods word, our Lawes, and your late Proteſtation. 2. Rid thy heart of ſinne by true repentance, cary to the field a cleer conſcience; it was the uſuall ſaying of the old Earle of <hi>Eſſex.</hi> (his Excellencies father that now is) <hi>When I goe out to the field, if any ſinne or guilt lye on my Conſcience, it cowards and dampes my ſpirit; whereas if I find, peace within, I dunſt encounter an Army of men;</hi> ſo ſaid old <hi>Latimer, <g ref="char:V">Ʋ</g>prightneſſe</hi> hath <hi>Boldneſſe.</hi>
+            </p>
+            <p>Thirdly, take Chriſts advice to ſouldiers <hi>Luke</hi> 3.14. <hi>Doe violence to no man, and be content with your wages;</hi> away, for ever away, with
+<pb n="22" facs="tcp:46280:19"/>this ſmoaking, pillaging, plundering, for your own private gaine; without either juſt and publique command and authority, or pub<g ref="char:EOLhyphen"/>lique good. It was called ſtealing the laſt yeer, and deſerved hang<g ref="char:EOLhyphen"/>ing and damming, what is it now? It was truly ſaid to, and well taken by, as valiant and pious a ſouldier as I think this age hath bred, (<hi>viz.</hi> to Generall<note n="*" place="margin">Sir Horatio Vere Knight, Lord Vere of <hi>Tilbury.</hi>
+               </note> 
+               <hi>Vere</hi>) <hi>Souldiers that carry their lives in their hands, bad need above others to carry grace in their hearts, that ſo having made peace with God, they my be fit to encounter with men;</hi> and if holy at any time, ſurely now, when the Armies go out to battel, <hi>Deut.</hi> 23.9. <hi>oh let not an Achans ſtollen wedge be found in your Campe,</hi> Joſh. 7. <hi>l. ſt God blaſt you,</hi> Deut. 23.14. if ye doe otherwiſe, no wonder the child of Reformation ſtick in the birth, or that things goe backward, by reaſon of tranſgreſſion, <hi>Dan.</hi> 8.12. you ſay you diſ<g ref="char:EOLhyphen"/>play your Banners in the name of the Lord of Hoſts (and ſo you muſt do, if would rightly proſper,) <hi>Pſal.</hi> 20.5. you ſay you ſerve under and for Chriſt your Generall, oh but he is a holy God, <hi>Iſa</hi> 6.3. <hi>Holy, holy, holy, Lord God of Hoſts,</hi> Rev. 17.14. would Chriſt your Generall ſwear, be drunk, whore, ly, &amp;c.? follow your leader. 2. A<g ref="char:EOLhyphen"/>gain, you ſay you ſtand up for a holy Cauſe, holy Doctrine, Life and Lawes. Do not you cry, <hi>Ocoelum!</hi> and point, and looke at the earth.</p>
+            <p>Thirdly, I beleeve you would prevaile, oh but <hi>David</hi> (as vali<g ref="char:EOLhyphen"/>ant a ſouldier as ever drew ſword,) ſee which way hee meant to prevaile, <hi>by holy crying unto God, Pſal.</hi> 56.9.</p>
+            <p>Fourthly, you would be ſafe; this is the way, <hi>Zach.</hi> 2.5. and 10.3, 5 <hi>Holineſſe hath promiſe of protection.</hi> 5. Conſider there is ſomwhat to be done after dying, then comes the ſtrongeſt try all, and grea<g ref="char:EOLhyphen"/>teſt encounter; you are not able to contend with God, 1 <hi>Cor.</hi> 10.22. <hi>prize your ſoules above all earthly traſh: Caeſar</hi> ſwimming through the waters, was content to looſe his rich Robe, to ſave his Booke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which he held in his hand; <hi>major fuit cura Caeſari libellorum quam pur<g ref="char:EOLhyphen"/>purae.</hi> Your ſoules will quickly fly out to eternity, I remember the ſaying of that famous Limmer <hi>Zeuxes; diu pingo, quia aeternitati pingo.</hi> Let the greatneſſe of this Generall CHRIST (who can pardon ſins, cleanſe the ſoule, and is flowne away <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heaven, to provide manſions for his there,) encourage you; Ay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but let Holineſſe and Piety alſo rule and direct; but enough of
+<pb n="26" facs="tcp:46280:19"/>this, I promiſed brevity.</p>
+            <p>Uſe 7. And now while this laſt ſand runs, let me recall that Uſe which a good while a goe through poſting haſt I forgot; tis this: a glaſſe to ſhew us theuglineſſe and poyſon ouſneſſe of ſin, which nothing elſe could cleanſe or take away but theſe cleane Birds, this Cedar, Skarlet, and Hyſſop, the precious blood and death of Jeſus Chriſt: play not the fool to make a mock at ſinne, <hi>Prov.</hi> 14.9. <hi>rejoyce not thou in that, as ſweet,</hi> Jer. 11.15. <hi>which cauſed the Saints, as</hi> Mary Magdalene, Luke 7.38. <hi>David</hi> Pſal. 34.4. <hi>the inceſtu<g ref="char:EOLhyphen"/>ous Corinthian,</hi> 2 Cor. 2.7. <hi>Peter,</hi> Mat. 26.78. &amp;c. <hi>to weepe ſo bitterly;</hi> do not thou call bitter ſweete: call not any ſinne little, that coſt ſo great a price. <hi>Moſes</hi> would not leave a hoofe; <hi>Oecebolius</hi> not give a halfe-penny to an Idoll Temple. Young King <hi>Edward</hi> the fixth, ſaid he would rather loſe his life, then allow his ſiſter the Lady <hi>Mary</hi> (afterwards Queene) ſo much as one Chappell in England for Maſſe, though <hi>Charles</hi> the Emperour, and two great perſons in this Kingdom, did ſore ſollicite him: <hi>David.</hi> would ra<g ref="char:EOLhyphen"/>ther chuſe puniſhment then ſinne, 2. <hi>Sam.</hi> 24.10, 17. <hi>Joſeph would ra<g ref="char:EOLhyphen"/>ther loſe his cloaths off his backe then ſinne,</hi> Gen. 39.9, 10, &amp;c. <hi>Moſes would rather loſe Lord Treaſurer ſhip then ſinne,</hi> Heb. 11.26. <hi>Martyrs rather bee plundered,</hi> Heb. 10.34. <hi>yea endure the fire, then ſinne; rejoyce not at the ſinnes of others;</hi> when any came to Saint <hi>Ambroſe</hi> for comfort, his eyes ſpoke before his tongue, in mourning for their ſinne. Our Sa<g ref="char:EOLhyphen"/>viour (whom we never reade to have laughed, wept four times, and all theſe when others rejoyced and tryumphed: it goes for a ſay<g ref="char:EOLhyphen"/>ing of <hi>Anſelmes,</hi> that he had rather be in Hell without ſinne, then Heaven with it.</p>
+            <p>And it ſhews us further the cauſe of all theſe great diſtractions fears, troubles on this Kingdome, and of this dayes faſting and humiliation; alas, its ſinne that doth thus oppreſſe us; and we have very great cauſe this day to wiſh our heads fountaines of tears, to make this place a <hi>Bochim</hi> to draw Buckets of teares to quench theſe burning diſſentions, to mourne for all our abomi<g ref="char:EOLhyphen"/>nations, the cauſe; and for the load of calamities, the fruits of our ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e for means to help us herein, I have laid down lately on another text; <hi>Englands</hi> mercies, <hi>Englands</hi> warnings, <hi>Englands</hi>
+               <pb n="24" facs="tcp:46280:20"/>rents, <hi>Englands</hi> dangers, <hi>Englands</hi> hopes, <hi>Irelands</hi> miſeries, <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> ſinnes; theſe, and ſuchlike (as I ſaid then) ſhould move and help us to wailing and lamentation, to flouds of tears. Let me as a cloſe to this point, adde a word to the laſt of thoſe Mo<g ref="char:EOLhyphen"/>tives, as moſt concerning out preſent point; <hi>viz. Englands</hi> ſinnes; was there ever ſuch hatred of pietie &amp; oppoſition of goodneſs, as hath been in thee O <hi>England!</hi> I never heard of Turks, Jews, Pa<g ref="char:EOLhyphen"/>piſts, or any other people in the world, but they did prize thoſe beſt, approve them moſt that lived moſt cloſe according to the principles of their own religion, what ever it be; but have not thoſe been made a mocking-ſtocke, oppoſed, nick-named, and ſcorned moſt, that walk moſt cloſe according to the Word of God, and principles of our own religion: Did I ever thinke I ſhould have lived to have ſeen thoſe dayes, wherein it ſhould by many have been made a diſcerning Shiboleth, or figne of one that is not the Kings friend, <hi>viz.</hi> if he do not banne and ſwear; I am ſure our great God, I hope our gracious Soveraign thinkes not ſo. Alas, ſwearing, curſing, banning wicked ſubjects are the worſt ene<g ref="char:EOLhyphen"/>mies that the King hath, 1 <hi>Sam.</hi> 12.25. 2 <hi>Sam.</hi> 24.1. An ill Sto<g ref="char:EOLhyphen"/>mack may make a good head ake, and good eyes dimme. And alas, alas! do our ſinnes decreaſe for all our afflictions, now God hath us on the knee? or <hi>Pharaoh</hi> and <hi>Ahaz</hi>-like, do wee not grow worſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worſe? do not ſwearing and banning, ſtealing, adul<g ref="char:EOLhyphen"/>tery, Sabbath-breaking and perſecution of Gods Saints encreaſe ſtill more and more? As a godly Divine ſomewhere ſaith, The Turkes call madde men Saints, (becauſe they conceive their thoughts are abſtracted from the world) but wee here call Saints madd men: men accuſe <hi>Daniel,</hi> why? no fault ſave in the mat<g ref="char:EOLhyphen"/>ter of his God.</p>
+            <p>And now (Right Honourable, and beloved) ſure I am that your neceſſities and my time both call for an end; and now all that I dare further preſume on (having thus farre treſpaſſed on your patience) is, in a word or two to tell you onely what I ſhould have ſaid, and ſo commit you to God.</p>
+            <p>
+               <hi>Obſer.</hi> 3. From the third part, which is the application of thoſe materialls to the Leaper, the point is, That all the Incarnation,
+<pb n="25" facs="tcp:46280:20"/>death and merits of Jeſus Chriſt will do a poor leprous ſinner no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od, except, beſprinkled on his heart, applyed to him. Hence it it that the ſacred Scripture compares Chriſt and his merits to ſuch things as do us good only when applyed as to meat, drink, bread, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yſick, Salve, water, clorhes, &amp;c. what will a hungry, ſick, na<g ref="char:EOLhyphen"/>ked man, &amp;c. be better for theſe, except they be applyed. 2. The Scripture (that appoints nothing in vain) affords plentifull means for application; as outward means, Word and Sacraments; in<g ref="char:EOLhyphen"/>ward means, on Gods part his Spirit; on our part, faith.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Confutes the grand and deſperate errour of many that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope and thinke to be juſtified, glorified, ſaved by Chriſt, though never beſprinkled with his graces, though never applyed to him, &amp;c.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. Of triall, whether we are of <hi>Simon Peter</hi> or <hi>Simon Magus</hi> lampe; whether we have any part or portion in this matter of Chriſts merits, <hi>Acts</hi> 8. whether thou art cleanſed or yet a loath<g ref="char:EOLhyphen"/>ſome Leper.</p>
+            <list>
+               <item>Firſt, is thy heart purified, is Chriſt beſprinkled on thee by faith, <hi>Act.</hi> 15.9.</item>
+               <item>Secondly, is the thumb of thy right hand, the toe of thy right foot, and thy right eare dipt in the blood of the Sacrifice, as the Lepers ought, <hi>Levit.</hi> 14.14. <hi>i. e.</hi> haſt thou a conſcionable ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earing, doing, walking.</item>
+               <item>Thirdly, doeſt thou prize the earthen veſſell, for the Treaſure ſake, <hi>i. e.</hi> Gods Embaſſadours and Miniſters, for the Goſpell ſake, 2 <hi>Cor.</hi> 4.7. <hi>Iſa</hi> 52.7.</item>
+               <item>Fourthly, doeſt thou daily waſh thy ſelfe in the tears of true re<g ref="char:EOLhyphen"/>pentance, and ſhave off that ſuperfluity of naughtineſſe, as the Le<g ref="char:EOLhyphen"/>per ought, <hi>Lev.</hi> 14.8, 9. <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es</hi> 1.21, &amp;c.</item>
+            </list>
+            <p>Uſe 3. Comfort from this Spring followeth to all Gods Saints, that have Chriſt beſprinkled on them, applyed to them, you are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe (though duſt and aſhes) that Jeſus Chriſt glorie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in, 2 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 23. he rejoyceth that ever be ſhed his blood for you, <hi>Iſa</hi> 53.11. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffer you may; be ruined you cannot, &amp;c. 2 <hi>Cor.</hi> 4.8.</p>
+            <p>From the fourth part, <hi>viz.</hi> the demeanour or carriage of the par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y being once cleanſed, obſerve.</p>
+            <pb n="26" facs="tcp:46280:21"/>
+            <p>
+               <hi>Obſer.</hi> 4. That thoſe whom God doth waſh, and cleanſe from their ſinnes, muſt ſtill waſh and ſhave themſelves, <hi>i. e.</hi> abſtain from all evill and occaſions of ſinne.</p>
+            <p>
+               <hi>Obſer.</hi> 5. That ſcandalous ſinners (while they continue Lepers) ſhould be carefully ſhut out of the Congregation, leſt they infe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others.</p>
+            <p>Oh we have many Lepers as in the dayes of <hi>Eliſha,</hi> oh that they were upon good grounds onely, duly ſhut out; and not but upon good grounds duly readmitted; that there were not too much le<g ref="char:EOLhyphen"/>vity, nor too much lenity in this Church-hooke of Excommuni<g ref="char:EOLhyphen"/>cation; not too much levity, in laying this heavie cenſure on men, for pence, toyes, trifles; nor too much lenity in readmitting Dogs, Swine, Lepers, ſtill into the Congregation again, becauſe they have either a ſilver file, or golden key, to open or breake the Dore. But enough of this, I remember my promiſe, I cloſe up all with that gallant and ſouldier-like Speech of that brave Generall <hi>Joab,</hi> in 2 <hi>Sam.</hi> 10.12. <hi>Be of good courage, let us play the men, for our people, and for the Cities of our God: and the Lord doe that which ſeemeth him good.</hi> 
+               <g ref="char:dtristar">*⁎*</g>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
